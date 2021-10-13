@@ -44,3 +44,10 @@ http://livetv.dnsfor.me/channel.11.m3u8
 https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-chno="99" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/99.png?token=APHMWEQOILRRYVTFUPPQNGLBOBK3U" group-title="[HKTVE] 香港電視娛樂",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
+
+#EXTINF:-1 tvg-chno="90" tvg-name="澳視澳門" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="[TDM] 澳門廣播電視",澳視澳門
+https://61.244.22.4/ch1/ch1.live/playelist.m3u8
+#EXTINF:-1 tvg-chno="93" tvg-name="澳門體育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png" group-title="[TDM] 澳門廣播電視",澳門體育
+https://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-chno="94" tvg-name="澳門資訊" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="[TDM] 澳門廣播電視",澳門資訊
+https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
