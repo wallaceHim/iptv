@@ -32,13 +32,13 @@ https://cdn.hkdtmb.com/hls/81b/index.m3u8
 #EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/82.png?token=APHMWEXNIUKOOPKSXKR2FJ3BOBK3K" group-title="[TVB] 電視廣播",J2台
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/83.png?token=APHMWEQ6BKFPMQ7LFU6BZVLBOBK3M" group-title="[TVB] 電視廣播",無綫新聞台
-http://livetv.dnsfor.me/channel10.m3u8
+http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/84.png?token=APHMWETNQCNVJJZH23DJHELBOBK3O" group-title="[TVB] 電視廣播",明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/84.png?token=APHMWETNQCNVJJZH23DJHELBOBK3O" group-title="[TVB] 電視廣播",明珠台 (粵語聲道)
 https://cdn.hkdtmb.com/hls/84b/index.m3u8
 #EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/85.png?token=APHMWETI5BFM7DIMVD2JF4DBOBK3Q" group-title="[TVB] 電視廣播",無綫財經·資訊台
-http://livetv.dnsfor.me/channel11.m3u8
+http://livetv.dnsfor.me/channel.11.m3u8
 
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/96.png?token=APHMWEXSWVJRI3CFGEJKODLBOBK3S" group-title="[HKTVE] 香港電視娛樂",ViuTV Six
 https://cdn.hkdtmb.com/hls/96/index.m3u8
