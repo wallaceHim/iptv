@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="70" tvg-name="有線財經資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/108.png?token=APHMWETAQIHLUYNG3BI2KWLBOBKMQ" group-title="[i-Cable] 有線電視",有線財經資訊台
+#EXTINF:-1 tvg-chno="71" tvg-name="有線財經資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/108.png?token=APHMWETAQIHLUYNG3BI2KWLBOBKMQ" group-title="[i-Cable] 有線電視",有線財經資訊台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfe18-1634138762-1634225342-9a822319d2709468ee990f921c45c48e-8d98ea13da7939d_542-03/freehd208_h.live/playlist.m3u8
-#EXTINF:-1 tvg-chno="71" tvg-name="有線新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/109.png?token=APHMWERKVE6TIXWT3MFX6DTBOBKOQ" group-title="[i-Cable] 有線電視",有線新聞台
+#EXTINF:-1 tvg-chno="72" tvg-name="有線新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/109.png?token=APHMWERKVE6TIXWT3MFX6DTBOBKOQ" group-title="[i-Cable] 有線電視",有線新聞台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfdf4-1634138762-1634225342-934fde903df02de76ec21f4adc9decb3-8d98ea13d6182c9_786-03/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-chno="72" tvg-name="有線直播新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/110.png?token=APHMWEVA3QGDAZ5HPEMQTDLBOBKO2" group-title="[i-Cable] 有線電視",有線直播新聞台
+#EXTINF:-1 tvg-chno="73" tvg-name="有線直播新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/110.png?token=APHMWEVA3QGDAZ5HPEMQTDLBOBKO2" group-title="[i-Cable] 有線電視",有線直播新聞台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfe11-1634138761-1634225341-6665baaa95fb7faa93aa3bbe89082691-8d98ea13d573f82_845-03/Stream1/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="91" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/331.png?token=APHMWESVJ3MCVDWX32BN4GDBOBKRC" group-title="[PCCW] 電訊盈科",now直播台
@@ -45,9 +45,12 @@ https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-chno="99" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/99.png?token=APHMWEQOILRRYVTFUPPQNGLBOBK3U" group-title="[HKTVE] 香港電視娛樂",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 
-#EXTINF:-1 tvg-chno="90" tvg-name="澳視澳門" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="[TDM] 澳門廣播電視",澳視澳門
+#EXTINF:-1 tvg-chno="101" tvg-name="澳視澳門" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="[TDM] 澳門廣播電視",澳視澳門
 https://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 tvg-chno="93" tvg-name="澳門體育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png" group-title="[TDM] 澳門廣播電視",澳門體育
+#EXTINF:-1 tvg-chno="102" tvg-name="澳門體育" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png" group-title="[TDM] 澳門廣播電視",澳門體育
 https://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-chno="94" tvg-name="澳門資訊" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="[TDM] 澳門廣播電視",澳門資訊
+#EXTINF:-1 tvg-chno="103" tvg-name="澳門資訊" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="[TDM] 澳門廣播電視",澳門資訊
 https://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="201" tvg-name="BBC World News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/BBC_World_News_red.svg/2560px-BBC_World_News_red.svg.png" group-title="[Int' News] 國際新聞頻道",BBC World News
+https://ott-cdn.ucom.am/s24/index.m3u8
