@@ -1,46 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="108" tvg-name="有線財經資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/108.png?token=APHMWETAQIHLUYNG3BI2KWLBOBKMQ" group-title="[i-Cable] 有線電視",有線財經資訊台
+#EXTINF:-1 tvg-chno="108" tvg-name="有線財經資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/108.png?token=APHMWETAQIHLUYNG3BI2KWLBOBKMQ" group-title="[i-Cable] 有線電視",有線財經資訊台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfe18-1634138762-1634225342-9a822319d2709468ee990f921c45c48e-8d98ea13da7939d_542-03/freehd208_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="109" tvg-name="有線新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/109.png?token=APHMWERKVE6TIXWT3MFX6DTBOBKOQ" group-title="[i-Cable] 有線電視",有線新聞台
+#EXTINF:-1 tvg-chno="109" tvg-name="有線新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/109.png?token=APHMWERKVE6TIXWT3MFX6DTBOBKOQ" group-title="[i-Cable] 有線電視",有線新聞台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfdf4-1634138762-1634225342-934fde903df02de76ec21f4adc9decb3-8d98ea13d6182c9_786-03/freehd209_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="110" tvg-name="有線直播新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/110.png?token=APHMWEVA3QGDAZ5HPEMQTDLBOBKO2" group-title="[i-Cable] 有線電視",有線直播新聞台
+#EXTINF:-1 tvg-chno="110" tvg-name="有線直播新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/110.png?token=APHMWEVA3QGDAZ5HPEMQTDLBOBKO2" group-title="[i-Cable] 有線電視",有線直播新聞台
 https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfe11-1634138761-1634225341-6665baaa95fb7faa93aa3bbe89082691-8d98ea13d573f82_845-03/Stream1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="331" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/331.png?token=APHMWESVJ3MCVDWX32BN4GDBOBKRC" group-title="[PCCW] 電訊盈科",now直播台
+#EXTINF:-1 tvg-chno="331" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/331.png?token=APHMWESVJ3MCVDWX32BN4GDBOBKRC" group-title="[PCCW] 電訊盈科",now直播台
 https://nowcom-newsstream-hk.viu.com/getnowmediahls/qcfrOT7-tLj6L7T6uh6ylQ/1634157152/smil:331.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="332" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/332.png?token=APHMWEX2XYKRZUBRWMDMV23BOBKRG" group-title="[PCCW] 電訊盈科",now新聞台
+#EXTINF:-1 tvg-chno="332" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/332.png?token=APHMWEX2XYKRZUBRWMDMV23BOBKRG" group-title="[PCCW] 電訊盈科",now新聞台
 https://nowcom-newsstream-hk.viu.com/getnowmediahls/l125QWOO99Vv6GpHrJiQtg/1634156476/smil:332.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="333" tvg-name="now財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/333.png?token=APHMWEQMVHXVI5UN4SW72UDBOBKRK" group-title="[PCCW] 電訊盈科",now財經台
+#EXTINF:-1 tvg-chno="333" tvg-name="now財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/333.png?token=APHMWEQMVHXVI5UN4SW72UDBOBKRK" group-title="[PCCW] 電訊盈科",now財經台
 http://ewcdnsite09.nowe.com/session/09-84f07aa83493667b00f0c13110c15/Content/HLS/LIVE/Channel(HLS_CH333)/index.m3u8?token=38da875f1002298696737714f560a277_1634162787
 
-#EXTINF:-1 tvg-id="31" tvg-name="港台電視31" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/31.png?token=APHMWEQB6KORKOR7NRLEQB3BOBK3A" group-title="[RTHK] 香港電台",港台電視31
+#EXTINF:-1 tvg-chno="31" tvg-name="港台電視31" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/31.png?token=APHMWEQB6KORKOR7NRLEQB3BOBK3A" group-title="[RTHK] 香港電台",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 tvg-id="32" tvg-name="港台電視32" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/32.png?token=APHMWER53E5CMFRVDA6XG5TBOBK3C" group-title="[RTHK] 香港電台",港台電視32
+#EXTINF:-1 tvg-chno="32" tvg-name="港台電視32" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/32.png?token=APHMWER53E5CMFRVDA6XG5TBOBK3C" group-title="[RTHK] 香港電台",港台電視32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
-#EXTINF:-1 tvg-id="33" tvg-name="港台電視33" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/33.png?token=APHMWET4FG3OUGFI4SC7GATBOBK3E" group-title="[RTHK] 香港電台",港台電視33
+#EXTINF:-1 tvg-chno="33" tvg-name="港台電視33" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/33.png?token=APHMWET4FG3OUGFI4SC7GATBOBK3E" group-title="[RTHK] 香港電台",港台電視33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
 
-#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/76.png?token=APHMWEUQ7BK4BUYUX4EXBATBOBLAE" group-title="[Fantastic] 奇妙電視",香港國際財經台
+#EXTINF:-1 tvg-chno="76" tvg-name="香港國際財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/76.png?token=APHMWEUQ7BK4BUYUX4EXBATBOBLAE" group-title="[Fantastic] 奇妙電視",香港國際財經台
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
-#EXTINF:-1 tvg-id="77" tvg-name="香港開電視" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/77.png?token=APHMWERLQD4ZJGRHP7YDCZDBOBK3I" group-title="[Fantastic] 奇妙電視",香港開電視
+#EXTINF:-1 tvg-chno="77" tvg-name="香港開電視" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/77.png?token=APHMWERLQD4ZJGRHP7YDCZDBOBK3I" group-title="[Fantastic] 奇妙電視",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/81.png?token=APHMWEVLKWJEV6GEYYQUEILBOBK3I" group-title="[TVB] 電視廣播",翡翠台
+#EXTINF:-1 tvg-chno="81" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/81.png?token=APHMWEVLKWJEV6GEYYQUEILBOBK3I" group-title="[TVB] 電視廣播",翡翠台
 https://cdn.hkdtmb.com/hls/81/index.m3u8
-#EXTINF:-1 tvg-id="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/81.png?token=APHMWEVLKWJEV6GEYYQUEILBOBK3I" group-title="[TVB] 電視廣播",翡翠台 (中英字幕)
+#EXTINF:-1 tvg-chno="81" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/81.png?token=APHMWEVLKWJEV6GEYYQUEILBOBK3I" group-title="[TVB] 電視廣播",翡翠台 (中英字幕)
 https://cdn.hkdtmb.com/hls/81b/index.m3u8
-#EXTINF:-1 tvg-id="82" tvg-name="J2台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/82.png?token=APHMWEXNIUKOOPKSXKR2FJ3BOBK3K" group-title="[TVB] 電視廣播",J2台
+#EXTINF:-1 tvg-chno="82" tvg-name="J2台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/82.png?token=APHMWEXNIUKOOPKSXKR2FJ3BOBK3K" group-title="[TVB] 電視廣播",J2台
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="83" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/83.png?token=APHMWEQ6BKFPMQ7LFU6BZVLBOBK3M" group-title="[TVB] 電視廣播",無綫新聞台
+#EXTINF:-1 tvg-chno="83" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/83.png?token=APHMWEQ6BKFPMQ7LFU6BZVLBOBK3M" group-title="[TVB] 電視廣播",無綫新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/84.png?token=APHMWETNQCNVJJZH23DJHELBOBK3O" group-title="[TVB] 電視廣播",明珠台
+#EXTINF:-1 tvg-chno="84" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/84.png?token=APHMWETNQCNVJJZH23DJHELBOBK3O" group-title="[TVB] 電視廣播",明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
-#EXTINF:-1 tvg-id="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/84.png?token=APHMWETNQCNVJJZH23DJHELBOBK3O" group-title="[TVB] 電視廣播",明珠台 (粵語聲道)
+#EXTINF:-1 tvg-chno="84" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/84.png?token=APHMWETNQCNVJJZH23DJHELBOBK3O" group-title="[TVB] 電視廣播",明珠台 (粵語聲道)
 https://cdn.hkdtmb.com/hls/84b/index.m3u8
-#EXTINF:-1 tvg-id="85" tvg-name="無綫財經·資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/85.png?token=APHMWETI5BFM7DIMVD2JF4DBOBK3Q" group-title="[TVB] 電視廣播",無綫財經·資訊台
+#EXTINF:-1 tvg-chno="85" tvg-name="無綫財經·資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/85.png?token=APHMWETI5BFM7DIMVD2JF4DBOBK3Q" group-title="[TVB] 電視廣播",無綫財經·資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
 
-#EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/96.png?token=APHMWEXSWVJRI3CFGEJKODLBOBK3S" group-title="[HKTVE] 香港電視娛樂",ViuTV Six
+#EXTINF:-1 tvg-chno="96" tvg-name="ViuTV Six" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/96.png?token=APHMWEXSWVJRI3CFGEJKODLBOBK3S" group-title="[HKTVE] 香港電視娛樂",ViuTV Six
 https://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/99.png?token=APHMWEQOILRRYVTFUPPQNGLBOBK3U" group-title="[HKTVE] 香港電視娛樂",ViuTV
+#EXTINF:-1 tvg-chno="99" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/99.png?token=APHMWEQOILRRYVTFUPPQNGLBOBK3U" group-title="[HKTVE] 香港電視娛樂",ViuTV
 https://cdn.hkdtmb.com/hls/99/index.m3u8
