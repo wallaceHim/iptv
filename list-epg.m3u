@@ -1,0 +1,123 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="7119" tvg-name="有线财经资讯台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-Finance.jpg?token=APHMWETVQQCQYSOJK2F7RTLBOG2TK" group-title="[i-Cable]有线电视",有线财经资讯台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 tvg-id="7122" tvg-name="有线新闻台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-News.jpg?token=APHMWEWIX6F7NSMSJQVELRTBOG2TM" group-title="[i-Cable]有线电视",有线新闻台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-LiveNews.jpg?token=APHMWEUDHVKFQXYVCDNMPHDBOG2TK" group-title="[i-Cable]有线电视",有线直播新闻台
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Direct.jpg?token=APHMWEVB2BPGKPCKFDNQV7LBOG2TO" group-title="[PCCW]电讯盈科",now直播台
+http://livetv.dnsfor.me/channel.3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-News.jpg?token=APHMWETH3I33363HFXWCQ63BOG2TS" group-title="[PCCW]电讯盈科",now新闻台
+http://livetv.dnsfor.me/channel.4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Finance.jpg?token=APHMWETJJG57DEH3UDHY2LLBOG2TQ" group-title="[PCCW]电讯盈科",now财经台
+http://ewcdnsite09.nowe.com/session/09-84f07aa83493667b00f0c13110c15/Content/HLS/LIVE/Channel(HLS_CH333)/index.m3u8?token=38da875f1002298696737714f560a277_1634162787
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Sports-Prime.jpg?token=APHMWES5C4HOECZARMFORRTBOG2TS" group-title="[PCCW]电讯盈科",now Sports Prime
+http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/RTHK31.jpg?token=APHMWERX2523UWHTHHG6HWTBOG2SC" group-title="[RTHK]香港电台",港台电视31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/RTHK32.jpg?token=APHMWES5I7FOSKXSM3YOMYTBOG2SE" group-title="[RTHK]香港电台",港台电视32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/RTHK33.jpg?token=APHMWETQ2P4E3JO3FUQVNG3BOG2SG" group-title="[RTHK]香港电台",港台电视33
+https://cdn.hkdtmb.com/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/RTHK-Live.jpg?token=APHMWEUMMW6FAVPY5G35II3BOG2SA" group-title="[RTHK]香港电台",港台视像新闻直播
+https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
+#EXTINF:-1 tvg-id="7117" tvg-name="香港国际财经台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/HKIBC.jpg?token=APHMWEQSCLKK6ZASGFPEKODBOG2P4" group-title="[Fantastic]奇妙电视",香港国际财经台
+http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-name="香港开电视" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/HKOTV.jpg?token=APHMWESRUPZKYEHAWIOFO4TBOG2P6" group-title="[Fantastic]奇妙电视",香港开电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TVB-Jade.jpg?token=APHMWEVEJAZ7FE5AMBUA5PTBOG2SY" group-title="[TVB]电视广播",翡翠台
+http://livetv.dnsfor.me/channel.18.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TVB-Jade.jpg?token=APHMWEVEJAZ7FE5AMBUA5PTBOG2SY" group-title="[TVB]电视广播",翡翠台 (中英字幕)
+https://cdn.hkdtmb.com/hls/81b/index.m3u8
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TVB-J2.jpg?token=APHMWET2SNZVSTPFKAZ45Q3BOG2SU" group-title="[TVB]电视广播",J2台
+https://cdn.hkdtmb.com/hls/82/index.m3u8
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TVB-News.jpg?token=APHMWEWQVBFDML2ESIFBBATBOG2S2" group-title="[TVB]电视广播",无线新闻台
+http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TVB-Pearl.jpg?token=APHMWERGW7JC35DGATCQJRDBOG2S6" group-title="[TVB]电视广播",明珠台
+https://cdn.hkdtmb.com/hls/84/index.m3u8
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TVB-Pearl.jpg?token=APHMWERGW7JC35DGATCQJRDBOG2S6" group-title="[TVB]电视广播",明珠台 (粤语声道)
+https://cdn.hkdtmb.com/hls/84b/index.m3u8
+#EXTINF:-1 tvg-id="133" tvg-name="无线财经" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TVB-Finance-and-Infomation.jpg?token=APHMWES5WXFK4QX52GDU4XLBOG2SS" group-title="[TVB]电视广播",无线财经·资讯台
+https://cdn.hkdtmb.com/hls/85/index.m3u8
+#EXTINF:-1 tvg-id="131" tvg-name="TVB星河频道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TVB-XingHe.jpg?token=APHMWEREVDTR5FQ53PKV2I3BOG2TA" group-title="[TVB]电视广播",TVB星河
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/viuTV6.jpg?token=APHMWEXL6XJYHA2X7ZZUH73BOG2TW" group-title="[HKTVE]香港电视娱乐",ViuTV Six
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="408" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/viuTV.jpg?token=APHMWER2OUOTDOA5M4JQUELBOG2TU" group-title="[HKTVE]香港电视娱乐",ViuTV
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TDM-OuMun.jpg?token=APHMWER3E6WTQZOWDO2EHJDBOG2SO" group-title="[TDM]澳门广播电视",澳视澳门
+http://61.244.22.4/ch1/ch1.live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TDM-Macau.jpg?token=APHMWEQUJHNBEQ65I5UEC4TBOG2SM" group-title="[TDM]澳门广播电视",澳视葡文
+http://61.244.22.4/ch2/ch2.live/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TDM-Sport.jpg?token=APHMWERG6HG4T2JU62SRP4LBOG2SQ" group-title="[TDM]澳门广播电视",澳门体育
+http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TDM-Info.jpg?token=APHMWEQ4HJEFIK5EBWVDDR3BOG2SM" group-title="[TDM]澳门广播电视",澳门资讯
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CCTV-1.jpg?token=APHMWEWK5PY6NFTYBFZQYVLBOG2O6" group-title="[CCTV]中国中央电视台",CCTV-1 综合
+http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CCTV-4.jpg?token=APHMWESL5AR4KKQTHDSZIG3BOG2PC" group-title="[CCTV]中国中央电视台",CCTV-4 中文国际
+http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CCTV-5.jpg?token=APHMWEQJG6KGDPCM2S5LY43BOG2PE" group-title="[CCTV]中国中央电视台",CCTV-5 体育
+http://livetv.dnsfor.me/channel.17.m3u8
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CCTV-13.jpg?token=APHMWEQXALU6EYWWPLUZA33BOG2PA" group-title="[CCTV]中国中央电视台",CCTV-13 新闻
+http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/GZBN.jpg?token=APHMWETLKUU4P3DKWL7HZSDBOG2PY" group-title="[GZBN]广州广播电视台",广州综合频道
+https://aplay.gztv.com/sec/zhonghe.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/GZBN-News.jpg?token=APHMWEX7R7E2SE6GUOQORT3BOG2PW" group-title="[GZBN]广州广播电视台",广州新闻频道
+https://aplay.gztv.com/sec/xinwen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/GZBN-Legal.jpg?token=APHMWEQMA6U4B5QSZU67JCTBOG2PW" group-title="[GZBN]广州广播电视台",广州法治频道
+https://aplay.gztv.com/sec/fazhi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/GZBN-Competition.jpg?token=APHMWEXMTEV2G4X6CGY4TA3BOG2PU" group-title="[GZBN]广州广播电视台",广州竞赛频道
+https://aplay.gztv.com/sec/jingsai.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/FS-Public.jpg?token=APHMWESA5OIULIGNGDKI6OLBOG2PM" group-title="[Int'Generalist]国际综合频道",佛山公共
+http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Astro-SHX.jpg?token=APHMWETPTICSGNNAJ77MPZLBOG2O2" group-title="[Int'Generalist]国际综合频道",Astro双星
+http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 tvg-id="6167" tvg-name="HGTV居家乐活" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/HGTV.jpg?token=APHMWEVXY3AMEGEIJDPF3Y3BOG2P2" group-title="[Int'Generalist]国际综合频道",HGTV
+http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/KBS-World.jpg?token=APHMWETZMU3SELD6RDFJ5E3BOG2P6" group-title="[Int'Generalist]国际综合频道",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="6141" tvg-name="ArirangTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/arirangTV.jpg?token=APHMWETJD5Z4F2K7KFYHNWLBOG2TE" group-title="[Int'Generalist]国际综合频道",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Tokyo-MX1.jpg?token=APHMWEXM7DQZVUMIYTBZB33BOG2TA" group-title="[Int'Generalist]国际综合频道",Tokyo MX1
+https://movie.mcas.jp/mcas/mx_live_2/master.m3u8?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Tokyo-MX2.jpg?token=APHMWEU2ZEUA4TJMG5ALO2DBOG2TC" group-title="[Int'Generalist]国际综合频道",Tokyo MX2
+http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="6108" tvg-name="三立财经新闻台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/SET-iNews.jpg?token=APHMWEWHWLVBVZYUL5C3TOTBOG2SI" group-title="[Int'News]国际新闻频道",三立iNEWS新闻台
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-name="民视新闻台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/FTV-News.jpg?token=APHMWEU26T3JJYZEWSXDFLTBOG2PS" group-title="[Int'News]国际新闻频道",民视新闻台
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/EBC.jpg?token=APHMWEVMTM7VHTG6AO4XJSTBOG2PK" group-title="[Int'News]国际新闻频道",东森新闻
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="331" tvg-name="NHKWorld" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/NHK-World.jpg?token=APHMWEQUUG6UYIAVRGSQBCDBOG2QE" group-title="[Int'News]国际新闻频道",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CNA.jpg?token=APHMWESSZF3XIECCNESE75TBOG2PG" group-title="[Int'News]国际新闻频道",CNA
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/NTV-NEWS24.jpg?token=APHMWEWROSHFQM6FGJRYMGLBOG2R2" group-title="[Int'News]国际新闻频道",日テレNEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+#EXTINF:-1 tvg-id="664" tvg-name="BBCWorldNews" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/BBC-World-News.jpg?token=APHMWEX5SWKU2G2NPL3USJLBOG2O4" group-title="[Int'News]国际新闻频道",BBC World News
+http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="742" tvg-name="SkyNews" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Sky-News.jpg?token=APHMWEUO3SO7DLJXSZQE6HTBOG2SK" group-title="[Int'News]国际新闻频道",Sky News
+https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
+#EXTINF:-1 tvg-id="730" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/DW-English.jpg?token=APHMWEUUW3SLTFFTSR3HA3DBOG2PI" group-title="[Int'News]国际新闻频道",DW English
+https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
+#EXTINF:-1 tvg-id="734" tvg-name="france24" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/France24.jpg?token=APHMWEUQANXPDYSHXMYGITTBOG2PS" group-title="[Int'News]国际新闻频道",France 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-id="7183" tvg-name="aljazeera" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Al-Jazeera-English.jpg?token=APHMWEUQONBD5OEI2H3Y5RTBOG2OY" group-title="[Int'News]国际新闻频道",Al-Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Global-News.jpg?token=APHMWEVX3TKYXOUVNBQ66ITBOG2PY" group-title="[Int'News]国际新闻频道",Global News
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CNN-International.jpg?token=APHMWES3ZUVX6EDL4Z7IN4DBOG2PI" group-title="[Int'News]国际新闻频道",CNN International
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-id="6140" tvg-name="BloombergTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/BloombergTV%2B.jpg?token=APHMWER6YQCBHJBC5HEFFLLBOG2O4" group-title="[Int'News]国际新闻频道",Bloomberg+
+https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+#EXTINF:-1 tvg-id="7100" tvg-name="ABCAustralia" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/ABC-Australia-News.jpg?token=APHMWEVFPUYL4YKRP5GEMK3BOG2OW" group-title="[Int'News]国际新闻频道",ABC Australia News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CMT.jpg?token=APHMWEWTUPCRBABJKCCHJOTBOG2PE" group-title="[MTV]音乐电视网",CMT  
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/MTV-SpankinNew.jpg?token=APHMWERWBRXZSFITJ2PMH4LBOG2QC" group-title="[MTV]音乐电视网",MTV Spankin New
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/MTV-BlockParty.jpg?token=APHMWEUTV7D2ICB43QGTYRLBOG2QC" group-title="[MTV]音乐电视网",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/MTV-BiggestPop.jpg?token=APHMWETKJBKZXBAG6MVIFWLBOG2QA" group-title="[MTV]音乐电视网",MTV Biggest Pop
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
