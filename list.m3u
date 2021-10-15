@@ -8,13 +8,13 @@ https://api.leonardpark.dev/live/icable/109
 https://api.leonardpark.dev/live/icable/110
 
 #NowTV
-#EXTINF:-1 tvg-id="" tvg-chno="061" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Direct.jpg?token=APHMWEVB2BPGKPCKFDNQV7LBOG2TO" group-title="[PCCW] 電訊盈科",now直播台
+#EXTINF:-1 tvg-id="4076" tvg-chno="061" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Direct.jpg?token=APHMWEVB2BPGKPCKFDNQV7LBOG2TO" group-title="[PCCW] 電訊盈科",now直播台
 http://livetv.dnsfor.me/channel.3.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="062" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-News.jpg?token=APHMWETH3I33363HFXWCQ63BOG2TS" group-title="[PCCW] 電訊盈科",now新聞台
+#EXTINF:-1 tvg-id="4078" tvg-chno="062" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-News.jpg?token=APHMWETH3I33363HFXWCQ63BOG2TS" group-title="[PCCW] 電訊盈科",now新聞台
 http://livetv.dnsfor.me/channel.4.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="063" tvg-name="now財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Finance.jpg?token=APHMWETJJG57DEH3UDHY2LLBOG2TQ" group-title="[PCCW] 電訊盈科",now財經台
+#EXTINF:-1 tvg-id="4080" tvg-chno="063" tvg-name="now財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Finance.jpg?token=APHMWETJJG57DEH3UDHY2LLBOG2TQ" group-title="[PCCW] 電訊盈科",now財經台
 http://ewcdnsite09.nowe.com/session/09-84f07aa83493667b00f0c13110c15/Content/HLS/LIVE/Channel(HLS_CH333)/index.m3u8?token=38da875f1002298696737714f560a277_1634162787
-#EXTINF:-1 tvg-id="" tvg-chno="064" tvg-name="now Sports Prime" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Sports-Prime.jpg?token=APHMWES5C4HOECZARMFORRTBOG2TS" group-title="[PCCW] 電訊盈科",now Sports Prime
+#EXTINF:-1 tvg-id="4204" tvg-chno="064" tvg-name="Now Sports 精選" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Sports-Prime.jpg?token=APHMWES5C4HOECZARMFORRTBOG2TS" group-title="[PCCW] 電訊盈科",Now Sports 精選
 http://livetv.dnsfor.me/channel.12.m3u8
 
 #RTHK
@@ -55,7 +55,7 @@ https://cdn.hkdtmb.com/hls/84b/index.m3u8
 # 133
 #EXTINF:-1 tvg-id="85" tvg-chno="085" tvg-name="無綫財經·資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TVB-Finance-and-Infomation.jpg?token=APHMWES5WXFK4QX52GDU4XLBOG2SS" group-title="[TVB] 電視廣播",無綫財經·資訊台
 https://cdn.hkdtmb.com/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="131" tvg-chno="086" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TVB-XingHe.jpg?token=APHMWEREVDTR5FQ53PKV2I3BOG2TA" group-title="[TVB] 電視廣播",TVB星河
+#EXTINF:-1 tvg-id="131" tvg-chno="086" tvg-name="TVB星河頻道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TVB-XingHe.jpg?token=APHMWEREVDTR5FQ53PKV2I3BOG2TA" group-title="[TVB] 電視廣播",TVB星河頻道
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
 #ViuTV
@@ -100,11 +100,12 @@ https://aplay.gztv.com/sec/jingsai.m3u8
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
 
 #OVERSEAS CHANNELS
-#EXTINF:-1 tvg-id="" tvg-chno="201" tvg-name="Astro雙星" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Astro-SHX.jpg?token=APHMWETPTICSGNNAJ77MPZLBOG2O2" group-title="[Int' Generalist] 國際綜合頻道",Astro雙星
+#EXTINF:-1 tvg-id="3363" tvg-chno="201" tvg-name="Astro雙星" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Astro-SHX.jpg?token=APHMWETPTICSGNNAJ77MPZLBOG2O2" group-title="[Int' Generalist] 國際綜合頻道",Astro雙星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1 tvg-id="6167" tvg-chno="202" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/HGTV.jpg?token=APHMWEVXY3AMEGEIJDPF3Y3BOG2P2" group-title="[Int' Generalist] 國際綜合頻道",HGTV
+# 6167-4326
+#EXTINF:-1 tvg-id="4326" tvg-chno="202" tvg-name="HGTV 居家樂活頻道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/HGTV.jpg?token=APHMWEVXY3AMEGEIJDPF3Y3BOG2P2" group-title="[Int' Generalist] 國際綜合頻道",HGTV 居家樂活頻道
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="203" tvg-name="KBS World" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/KBS-World.jpg?token=APHMWETZMU3SELD6RDFJ5E3BOG2P6" group-title="[Int' Generalist] 國際綜合頻道",KBS World
+#EXTINF:-1 tvg-id="3308" tvg-chno="203" tvg-name="KBS World" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/KBS-World.jpg?token=APHMWETZMU3SELD6RDFJ5E3BOG2P6" group-title="[Int' Generalist] 國際綜合頻道",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-chno="204" tvg-name="Arirang TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/arirangTV.jpg?token=APHMWETJD5Z4F2K7KFYHNWLBOG2TE" group-title="[Int' Generalist] 國際綜合頻道",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
@@ -114,36 +115,43 @@ https://movie.mcas.jp/mcas/mx_live_2/master.m3u8?checkedby:hlscat.com
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 
 #NEWS CHANNELS (ASIA)
-#EXTINF:-1 tvg-id="6108" tvg-chno="301" tvg-name="三立iNEWS新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/SET-iNews.jpg?token=APHMWEWHWLVBVZYUL5C3TOTBOG2SI" group-title="[Int' News] 國際新聞頻道",三立iNEWS新聞台
+# 6108-4513
+#EXTINF:-1 tvg-id="4513" tvg-chno="301" tvg-name="三立iNEWS新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/SET-iNews.jpg?token=APHMWEWHWLVBVZYUL5C3TOTBOG2SI" group-title="[Int' News] 國際新聞頻道",三立iNEWS新聞台
 http://seb.sason.top/sc/slinews_fhd.m3u8
-#EXTINF:-1 tvg-id="6071" tvg-chno="302" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/FTV-News.jpg?token=APHMWEU26T3JJYZEWSXDFLTBOG2PS" group-title="[Int' News] 國際新聞頻道",民視新聞台
+# 6071-4327
+#EXTINF:-1 tvg-id="4327" tvg-chno="302" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/FTV-News.jpg?token=APHMWEU26T3JJYZEWSXDFLTBOG2PS" group-title="[Int' News] 國際新聞頻道",民視新聞台
 http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1 tvg-id="6069" tvg-chno="303" tvg-name="東森新聞" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/EBC.jpg?token=APHMWEVMTM7VHTG6AO4XJSTBOG2PK" group-title="[Int' News] 國際新聞頻道",東森新聞
+# 6069-4023
+#EXTINF:-1 tvg-id="4023" tvg-chno="303" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/EBC.jpg?token=APHMWEVMTM7VHTG6AO4XJSTBOG2PK" group-title="[Int' News] 國際新聞頻道",東森新聞台
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="331" tvg-chno="304" tvg-name="NHK World" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/NHK-World.jpg?token=APHMWEQUUG6UYIAVRGSQBCDBOG2QE" group-title="[Int' News] 國際新聞頻道",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="305" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CNA.jpg?token=APHMWESSZF3XIECCNESE75TBOG2PG" group-title="[Int' News] 國際新聞頻道",CNA
+# 7482
+#EXTINF:-1 tvg-id="7482" tvg-chno="305" tvg-name="CNA" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CNA.jpg?token=APHMWESSZF3XIECCNESE75TBOG2PG" group-title="[Int' News] 國際新聞頻道",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+# 
 #EXTINF:-1 tvg-id="" tvg-chno="306" tvg-name="日テレNEWS24" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/NTV-NEWS24.jpg?token=APHMWEWROSHFQM6FGJRYMGLBOG2R2" group-title="[Int' News] 國際新聞頻道",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 #NEWS CHANNELS (EUROPE)
 #EXTINF:-1 tvg-id="664" tvg-chno="310" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/BBC-World-News.jpg?token=APHMWEX5SWKU2G2NPL3USJLBOG2O4" group-title="[Int' News] 國際新聞頻道",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
-#skynews.info
 #EXTINF:-1 tvg-id="742" tvg-chno="311" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Sky-News.jpg?token=APHMWEUO3SO7DLJXSZQE6HTBOG2SK" group-title="[Int' News] 國際新聞頻道",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
-#EXTINF:-1 tvg-id="730" tvg-chno="312" tvg-name="DW English" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/DW-English.jpg?token=APHMWEUUW3SLTFFTSR3HA3DBOG2PI" group-title="[Int' News] 國際新聞頻道",DW English
+#730-4062
+#EXTINF:-1 tvg-id="4062" tvg-chno="312" tvg-name="德國之聲 英語台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/DW-English.jpg?token=APHMWEUUW3SLTFFTSR3HA3DBOG2PI" group-title="[Int' News] 國際新聞頻道",德國之聲 英語台
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
-#EXTINF:-1 tvg-id="734" tvg-chno="313" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/France24.jpg?token=APHMWEUQANXPDYSHXMYGITTBOG2PS" group-title="[Int' News] 國際新聞頻道",France 24
+# 734-4069
+#EXTINF:-1 tvg-id="4069" tvg-chno="313" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/France24.jpg?token=APHMWEUQANXPDYSHXMYGITTBOG2PS" group-title="[Int' News] 國際新聞頻道",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="7183" tvg-chno="314" tvg-name="Al-Jazeera English" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Al-Jazeera-English.jpg?token=APHMWEUQONBD5OEI2H3Y5RTBOG2OY" group-title="[Int' News] 國際新聞頻道",Al-Jazeera English
+#EXTINF:-1 tvg-id="7183" tvg-chno="314" tvg-name="半島電視台英語頻道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Al-Jazeera-English.jpg?token=APHMWEUQONBD5OEI2H3Y5RTBOG2OY" group-title="[Int' News] 國際新聞頻道",半島電視台英語頻道
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
 #NEWS CHANNELS (AMERICA)
 #EXTINF:-1 tvg-id="" tvg-chno="321" tvg-name="Global News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Global-News.jpg?token=APHMWEVX3TKYXOUVNBQ66ITBOG2PY" group-title="[Int' News] 國際新聞頻道",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="144" tvg-chno="322" tvg-name="CNN International" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CNN-International.jpg?token=APHMWES3ZUVX6EDL4Z7IN4DBOG2PI" group-title="[Int' News] 國際新聞頻道",CNN International
+#144-4048-4383
+#EXTINF:-1 tvg-id="4383" tvg-chno="322" tvg-name="CNN 國際新聞網絡" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CNN-International.jpg?token=APHMWES3ZUVX6EDL4Z7IN4DBOG2PI" group-title="[Int' News] 國際新聞頻道",CNN 國際新聞網絡
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-chno="323" tvg-name="Bloomberg+" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/BloombergTV%2B.jpg?token=APHMWER6YQCBHJBC5HEFFLLBOG2O4" group-title="[Int' News] 國際新聞頻道",Bloomberg+
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
