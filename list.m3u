@@ -10,11 +10,13 @@ https://api.leonardpark.dev/live/icable/110
 #NowTV
 #EXTINF:-1 tvg-id="4076" tvg-chno="061" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Direct.jpg?token=APHMWEVB2BPGKPCKFDNQV7LBOG2TO" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-Direct.png?token=APHMWETIQISU3LFMXA4DNW3BOMAME" group-title="[PCCW] 電訊盈科",now直播台
 http://livetv.dnsfor.me/channel.3.m3u8
-#EXTINF:-1 tvg-id="4078" tvg-chno="062" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-News.jpg?token=APHMWETH3I33363HFXWCQ63BOG2TS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-News.png?token=APHMWEVA7XSNNVTYNBR6JLLBOMAMG" group-title="[PCCW] 電訊盈科",now新聞台
+# 4078-NOW.HK
+#EXTINF:-1 tvg-id="NOW.HK" tvg-chno="062" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-News.jpg?token=APHMWETH3I33363HFXWCQ63BOG2TS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-News.png?token=APHMWEVA7XSNNVTYNBR6JLLBOMAMG" group-title="[PCCW] 電訊盈科",now新聞台
 http://livetv.dnsfor.me/channel.4.m3u8
 #EXTINF:-1 tvg-id="4080" tvg-chno="063" tvg-name="now財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Finance.jpg?token=APHMWETJJG57DEH3UDHY2LLBOG2TQ" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-Finance.png?token=APHMWERBRJVZ4BUXFPT7SN3BOMAMG" group-title="[PCCW] 電訊盈科",now財經台
 http://ewcdnsite09.nowe.com/session/09-84f07aa83493667b00f0c13110c15/Content/HLS/LIVE/Channel(HLS_CH333)/index.m3u8?token=38da875f1002298696737714f560a277_1634162787
-#EXTINF:-1 tvg-id="4204" tvg-chno="064" tvg-name="Now Sports 精選" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Sports-Prime.jpg?token=APHMWES5C4HOECZARMFORRTBOG2TS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-Sports-Prime.png?token=APHMWESA76DVUR3Q4F2UTITBOMBGK" group-title="[PCCW] 電訊盈科",Now Sports 精選
+# 4204-NOP.HK
+#EXTINF:-1 tvg-id="NOP.HK" tvg-chno="064" tvg-name="Now Sports 精選" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Sports-Prime.jpg?token=APHMWES5C4HOECZARMFORRTBOG2TS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-Sports-Prime.png?token=APHMWESA76DVUR3Q4F2UTITBOMBGK" group-title="[PCCW] 電訊盈科",Now Sports 精選
 http://livetv.dnsfor.me/channel.12.m3u8
 
 #RTHK
