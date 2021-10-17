@@ -1,4 +1,21 @@
 #EXTM3U
+# NowTV
+# 4078-NOW.HK
+#EXTINF:-1 tvg-id="NOW.HK" tvg-chno="051" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-News.jpg?token=APHMWETH3I33363HFXWCQ63BOG2TS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-News.png?token=APHMWEVA7XSNNVTYNBR6JLLBOMAMG" group-title="PCCW 電訊盈科",now新聞台
+http://livetv.dnsfor.me/channel.4.m3u8
+#EXTINF:-1 tvg-id="4080" tvg-chno="052" tvg-name="now財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Finance.jpg?token=APHMWETJJG57DEH3UDHY2LLBOG2TQ" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-Finance.png?token=APHMWERBRJVZ4BUXFPT7SN3BOMAMG" group-title="PCCW 電訊盈科",now財經台
+http://ewcdnsite09.nowe.com/session/09-84f07aa83493667b00f0c13110c15/Content/HLS/LIVE/Channel(HLS_CH333)/index.m3u8?token=38da875f1002298696737714f560a277_1634162787
+#EXTINF:-1 tvg-id="4076" tvg-chno="053" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Direct.jpg?token=APHMWEVB2BPGKPCKFDNQV7LBOG2TO" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-Direct.png?token=APHMWETIQISU3LFMXA4DNW3BOMAME" group-title="PCCW 電訊盈科",now直播台
+http://livetv.dnsfor.me/channel.3.m3u8
+
+# i-Cable
+#EXTINF:-1 tvg-id="7122" tvg-chno="061" tvg-name="有線新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-News.jpg?token=APHMWEWIX6F7NSMSJQVELRTBOG2TM" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/iCable-News.png?token=APHMWEX2D5THM7JXDDRDSGLBOMAMC" group-title="i-Cable 有線電視",有線新聞台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 tvg-id="7119" tvg-chno="062" tvg-name="有線財經資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-Finance.jpg?token=APHMWETVQQCQYSOJK2F7RTLBOG2TK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/iCable-Finance.png?token=APHMWEQEQUADQUOKRTJUBS3BOMAMA" group-title="i-Cable 有線電視",有線財經資訊台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 tvg-id="" tvg-chno="063" tvg-name="有線直播新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-LiveNews.jpg?token=APHMWEUDHVKFQXYVCDNMPHDBOG2TK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/iCable-LiveNews.png?token=APHMWEXNVY6CJP4X4ZC6XBTBOMAMA" group-title="i-Cable 有線電視",有線直播新聞台
+https://api.leonardpark.dev/live/icable/110
+
 #RTHK
 #EXTINF:-1 tvg-id="31" tvg-chno="031" tvg-name="港台電視31" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/RTHK31.jpg?token=APHMWERX2523UWHTHHG6HWTBOG2SC" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/RTHK31.png?token=APHMWEQCZB5KJFYWEHLTJHLBOL76K" group-title="RTHK 香港電台",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
@@ -6,6 +23,8 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 #EXTINF:-1 tvg-id="33" tvg-chno="033" tvg-name="港台電視33" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/RTHK33.jpg?token=APHMWETQ2P4E3JO3FUQVNG3BOG2SG" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/RTHK33.png?token=APHMWEWIDPQJA2JW7TUSXJTBOL76O" group-title="RTHK 香港電台",港台電視33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="034" tvg-name="港台視像新聞直播" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/RTHK-Live.jpg?token=APHMWEUMMW6FAVPY5G35II3BOG2SA" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/RTHK-Live.png?token=APHMWEWSIAA4Y335R5URKQ3BOMBGO" group-title="RTHK 香港電台",港台視像新聞直播
+https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 
 #FanTV
 #7117
@@ -107,23 +126,6 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-id="6141" tvg-chno="223" tvg-name="Arirang TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/arirangTV.jpg?token=APHMWETJD5Z4F2K7KFYHNWLBOG2TE" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/arirangTV.png?token=APHMWETYGUJMT3XQOQPL4MTBOMAL6" group-title="Infotainment 資訊娛樂頻道",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
-
-# Local News 本地新聞頻道 300
-# 4078-NOW.HK
-#EXTINF:-1 tvg-id="NOW.HK" tvg-chno="301" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-News.jpg?token=APHMWETH3I33363HFXWCQ63BOG2TS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-News.png?token=APHMWEVA7XSNNVTYNBR6JLLBOMAMG" group-title="Local News 本地新聞頻道",now新聞台
-http://livetv.dnsfor.me/channel.4.m3u8
-#EXTINF:-1 tvg-id="7122" tvg-chno="302" tvg-name="有線新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-News.jpg?token=APHMWEWIX6F7NSMSJQVELRTBOG2TM" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/iCable-News.png?token=APHMWEX2D5THM7JXDDRDSGLBOMAMC" group-title="Local News 本地新聞頻道",有線新聞台
-https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="4080" tvg-chno="303" tvg-name="now財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Finance.jpg?token=APHMWETJJG57DEH3UDHY2LLBOG2TQ" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-Finance.png?token=APHMWERBRJVZ4BUXFPT7SN3BOMAMG" group-title="Local News 本地新聞頻道",now財經台
-http://ewcdnsite09.nowe.com/session/09-84f07aa83493667b00f0c13110c15/Content/HLS/LIVE/Channel(HLS_CH333)/index.m3u8?token=38da875f1002298696737714f560a277_1634162787
-#EXTINF:-1 tvg-id="7119" tvg-chno="304" tvg-name="有線財經資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-Finance.jpg?token=APHMWETVQQCQYSOJK2F7RTLBOG2TK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/iCable-Finance.png?token=APHMWEQEQUADQUOKRTJUBS3BOMAMA" group-title="Local News 本地新聞頻道",有線財經資訊台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-id="4076" tvg-chno="305" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Direct.jpg?token=APHMWEVB2BPGKPCKFDNQV7LBOG2TO" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-Direct.png?token=APHMWETIQISU3LFMXA4DNW3BOMAME" group-title="Local News 本地新聞頻道",now直播台
-http://livetv.dnsfor.me/channel.3.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="306" tvg-name="有線直播新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-LiveNews.jpg?token=APHMWEUDHVKFQXYVCDNMPHDBOG2TK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/iCable-LiveNews.png?token=APHMWEXNVY6CJP4X4ZC6XBTBOMAMA" group-title="Local News 本地新聞頻道",有線直播新聞台
-https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 tvg-id="" tvg-chno="307" tvg-name="港台視像新聞直播" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/RTHK-Live.jpg?token=APHMWEUMMW6FAVPY5G35II3BOG2SA" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/RTHK-Live.png?token=APHMWEWSIAA4Y335R5URKQ3BOMBGO" group-title="Local News 本地新聞頻道",港台視像新聞直播
-https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 
 
 # Asian News 亞洲新聞頻道 310
