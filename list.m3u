@@ -1,21 +1,4 @@
 #EXTM3U
-#i-Cable
-#EXTINF:-1 tvg-id="7119" tvg-chno="051" tvg-name="有線財經資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-Finance.jpg?token=APHMWETVQQCQYSOJK2F7RTLBOG2TK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/iCable-Finance.png?token=APHMWEQEQUADQUOKRTJUBS3BOMAMA" group-title="i-Cable 有線電視",有線財經資訊台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-id="7122" tvg-chno="052" tvg-name="有線新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-News.jpg?token=APHMWEWIX6F7NSMSJQVELRTBOG2TM" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/iCable-News.png?token=APHMWEX2D5THM7JXDDRDSGLBOMAMC" group-title="i-Cable 有線電視",有線新聞台
-https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="" tvg-chno="053" tvg-name="有線直播新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-LiveNews.jpg?token=APHMWEUDHVKFQXYVCDNMPHDBOG2TK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/iCable-LiveNews.png?token=APHMWEXNVY6CJP4X4ZC6XBTBOMAMA" group-title="i-Cable 有線電視",有線直播新聞台
-https://api.leonardpark.dev/live/icable/110
-
-#NowTV
-#EXTINF:-1 tvg-id="4076" tvg-chno="061" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Direct.jpg?token=APHMWEVB2BPGKPCKFDNQV7LBOG2TO" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-Direct.png?token=APHMWETIQISU3LFMXA4DNW3BOMAME" group-title="PCCW 電訊盈科",now直播台
-http://livetv.dnsfor.me/channel.3.m3u8
-# 4078-NOW.HK
-#EXTINF:-1 tvg-id="NOW.HK" tvg-chno="062" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-News.jpg?token=APHMWETH3I33363HFXWCQ63BOG2TS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-News.png?token=APHMWEVA7XSNNVTYNBR6JLLBOMAMG" group-title="PCCW 電訊盈科",now新聞台
-http://livetv.dnsfor.me/channel.4.m3u8
-#EXTINF:-1 tvg-id="4080" tvg-chno="063" tvg-name="now財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Finance.jpg?token=APHMWETJJG57DEH3UDHY2LLBOG2TQ" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-Finance.png?token=APHMWERBRJVZ4BUXFPT7SN3BOMAMG" group-title="PCCW 電訊盈科",now財經台
-http://ewcdnsite09.nowe.com/session/09-84f07aa83493667b00f0c13110c15/Content/HLS/LIVE/Channel(HLS_CH333)/index.m3u8?token=38da875f1002298696737714f560a277_1634162787
-
 #RTHK
 #EXTINF:-1 tvg-id="31" tvg-chno="031" tvg-name="港台電視31" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/RTHK31.jpg?token=APHMWERX2523UWHTHHG6HWTBOG2SC" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/RTHK31.png?token=APHMWEQCZB5KJFYWEHLTJHLBOL76K" group-title="RTHK 香港電台",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
@@ -23,8 +6,6 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 #EXTINF:-1 tvg-id="33" tvg-chno="033" tvg-name="港台電視33" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/RTHK33.jpg?token=APHMWETQ2P4E3JO3FUQVNG3BOG2SG" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/RTHK33.png?token=APHMWEWIDPQJA2JW7TUSXJTBOL76O" group-title="RTHK 香港電台",港台電視33
 https://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="034" tvg-name="港台視像新聞直播" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/RTHK-Live.jpg?token=APHMWEUMMW6FAVPY5G35II3BOG2SA" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/RTHK-Live.png?token=APHMWEWSIAA4Y335R5URKQ3BOMBGO" group-title="RTHK 香港電台",港台視像新聞直播
-https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 
 #FanTV
 #7117
@@ -77,129 +58,140 @@ https://aplay.gztv.com/sec/zhonghe.m3u8
 https://aplay.gztv.com/sec/fazhi.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="105" tvg-name="佛山公共" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/FS-Public.jpg?token=APHMWESA5OIULIGNGDKI6OLBOG2PM" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/FS-Public.png?token=APHMWESTQRWXW52JU4RLG6TBOL7EE" group-title="Generalist 綜合頻道",佛山公共
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-chno="111" tvg-name="CCTV-1 綜合" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CCTV-1.jpg?token=APHMWEWK5PY6NFTYBFZQYVLBOG2O6" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CCTV-1.png?token=APHMWERGEA2OHDOSWHTFWFTBOL7DS" group-title="Generalist 綜合頻道",CCTV-1 綜合
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-chno="112" tvg-name="CCTV-4 中文國際" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CCTV-4.jpg?token=APHMWESL5AR4KKQTHDSZIG3BOG2PC" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CCTV-4.png?token=APHMWETMBMYTWZ32J5QOI5DBOL7DW" group-title="Generalist 綜合頻道",CCTV-4 中文國際
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 tvg-id="6024" tvg-chno="113" tvg-name="民視無線台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV.jpg?token=APHMWEVEFHW233AZIRFM2R3BOL5ZW" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/FTV.png?token=APHMWEU2BYUT6FS7BH5IVK3BOL7LE" group-title="Generalist 綜合頻道",民視無線台
 http://seb.sason.top/ptv/ftv.php?id=ms
-# NEW CHANNELS
 # 7133-MS1.TW
-#EXTINF:-1 tvg-id="MS1.TW" tvg-chno="114" tvg-name="民视第一台" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="Generalist 綜合頻道",民視第一台
+#EXTINF:-1 tvg-id="MS1.TW" tvg-chno="114" tvg-name="民视第一台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-One.jpg?token=APHMWEVZDGCVW6CMIEL5573BOWKRG" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/FTV-One.png?token=APHMWEUWD4OOFY2ZCERUX3LBOWMDE" group-title="Generalist 綜合頻道",民視第一台
 http://seb.sason.top/ptv/ftv.php?id=dy
 # 7134-MST.TW
-#EXTINF:-1 tvg-id="MST.TW" tvg-chno="115" tvg-name="民视台湾台" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="Generalist 綜合頻道",民視台灣台
+#EXTINF:-1 tvg-id="MST.TW" tvg-chno="115" tvg-name="民视台湾台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-Taiwan.jpg?token=APHMWEUH7OZ4BQXZI5IFK3TBOWKRI" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/FTV-Taiwan.png?token=APHMWETG5UOYQAFTH62T37DBOWMDG" group-title="Generalist 綜合頻道",民視台灣台
 http://seb.sason.top/ptv/ftv.php?id=tw
-#EXTINF:-1 tvg-id="" tvg-chno="116" tvg-name="民視影劇台" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" group-title="臺灣",民視影劇台
+#EXTINF:-1 tvg-id="" tvg-chno="116" tvg-name="民視影劇台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-Drama.jpg?token=APHMWERQX6VXRP7EPLUBXWDBOWKRC" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/FTV-Drama.png?token=APHMWEVTQHGT2GDGSAMX4HTBOWMDA" group-title="Generalist 綜合頻道",民視影劇台
 http://seb.sason.top/ptv/ftv.php?id=yj
-# NEW CHANNELS END
+
 #EXTINF:-1 tvg-id="3308" tvg-chno="121" tvg-name="KBS World" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/KBS-World.jpg?token=APHMWETZMU3SELD6RDFJ5E3BOG2P6" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/KBS-World.png?token=APHMWEQ3OFV3YZPLZXTBYNLBOL7UW" group-title="Generalist 綜合頻道",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-chno="131" tvg-name="Tokyo MX1" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Tokyo-MX1.jpg?token=APHMWEXM7DQZVUMIYTBZB33BOG2TA" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Tokyo-MX1.png?token=APHMWEXYPUOXA2EKIMS53Y3BOL77A" group-title="Generalist 綜合頻道",Tokyo MX1
 https://movie.mcas.jp/mcas/mx_live_2/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-chno="132" tvg-name="Tokyo MX2" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Tokyo-MX2.jpg?token=APHMWEU2ZEUA4TJMG5ALO2DBOG2TC" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Tokyo-MX2.png?token=APHMWERCO5TIXADS43HQHITBOL77C" group-title="Generalist 綜合頻道",Tokyo MX2
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 
 
-# Variety 綜藝頻道 150
-#EXTINF:-1 tvg-id="3363" tvg-chno="151" tvg-name="Astro雙星" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Astro-SHX.jpg?token=APHMWETPTICSGNNAJ77MPZLBOG2O2" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Astro-SHX.png?token=APHMWEUIKDBQO6VESHXBFBLBOL6KQ" group-title="Variety 綜藝頻道",Astro雙星
+
+# Variety 綜藝頻道 200
+#EXTINF:-1 tvg-id="3363" tvg-chno="201" tvg-name="Astro雙星" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Astro-SHX.jpg?token=APHMWETPTICSGNNAJ77MPZLBOG2O2" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Astro-SHX.png?token=APHMWEUIKDBQO6VESHXBFBLBOL6KQ" group-title="Variety 綜藝頻道",Astro雙星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-# NEW CHANNEL
-#EXTINF:-1 tvg-id="7145" tvg-chno="152" tvg-name="民视综艺台" tvg-logo="https://www.ftv.com.tw/images/Ch_06.png" group-title="Variety 綜藝頻道",民視綜藝台
+#EXTINF:-1 tvg-id="7145" tvg-chno="202" tvg-name="民视综艺台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-Variety.jpg?token=APHMWETZYYRDFYZL3E6PUELBOWKRM" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/FTV-Variety.png?token=APHMWEWBYXXB3SSPDX73QADBOWMDI" group-title="Variety 綜藝頻道",民視綜藝台
 http://seb.sason.top/ptv/ftv.php?id=zy
-# NEW CHANNEL END
 
 
-# Reality 真人實境頻道 200
+
+# Reality 真人實境頻道 210
 # 6167-4326
-#EXTINF:-1 tvg-id="6167" tvg-chno="201" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/HGTV.jpg?token=APHMWEVXY3AMEGEIJDPF3Y3BOG2P2" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/HGTV.png?token=APHMWERP7D73RWTQVBQHT3DBOL7UQ" group-title="Reality 真人實境頻道",HGTV 居家樂活頻道
+#EXTINF:-1 tvg-id="6167" tvg-chno="211" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/HGTV.jpg?token=APHMWEVXY3AMEGEIJDPF3Y3BOG2P2" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/HGTV.png?token=APHMWERP7D73RWTQVBQHT3DBOL7UQ" group-title="Reality 真人實境頻道",HGTV 居家樂活頻道
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
 
 
-# Infotainment 資訊娛樂頻道 210
-#EXTINF:-1 tvg-id="6141" tvg-chno="211" tvg-name="Arirang TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/arirangTV.jpg?token=APHMWETJD5Z4F2K7KFYHNWLBOG2TE" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/arirangTV.png?token=APHMWETYGUJMT3XQOQPL4MTBOMAL6" group-title="Infotainment 資訊娛樂頻道",Arirang TV
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-# NEW CHANNELS
-#EXTINF:-1 tvg-id="" tvg-chno="212" tvg-name="民視旅遊台" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png" group-title="臺灣",民視旅遊台
+
+# Infotainment 資訊娛樂頻道 220
+#EXTINF:-1 tvg-id="" tvg-chno="221" tvg-name="民視旅遊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-Travel.jpg?token=APHMWEV27AQNVUHZ6TYNF5TBOWKRK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/FTV-Travel.png?token=APHMWESSPJVXDEYS7QKAITLBOWMDI" group-title="Infotainment 資訊娛樂頻道",民視旅遊台
 http://seb.sason.top/ptv/ftv.php?id=ly
-#EXTINF:-1 tvg-id="891" tvg-chno="213" tvg-name="CGTNDocumentary" tvg-logo="http://static.epg.best/au/CGTNDocu.au.png" group-title="Infotainment 資訊娛樂頻道",CGTN Documentary 中國環球電視網紀錄頻道
+#EXTINF:-1 tvg-id="891" tvg-chno="222" tvg-name="CGTNDocumentary" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CGTV-Documentary.jpg?token=APHMWEWE3YG4IXREWXL3YSLBOWKQE" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CGTV-Documentary.png?token=APHMWEQPDCCQJVVIFXQ6SQLBOWMCW" group-title="Infotainment 資訊娛樂頻道",CGTN Documentary 中國環球電視網紀錄頻道
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-# NEW CHANNELS ENDS
+#EXTINF:-1 tvg-id="6141" tvg-chno="223" tvg-name="Arirang TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/arirangTV.jpg?token=APHMWETJD5Z4F2K7KFYHNWLBOG2TE" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/arirangTV.png?token=APHMWETYGUJMT3XQOQPL4MTBOMAL6" group-title="Infotainment 資訊娛樂頻道",Arirang TV
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
 
-# Asian News 亞洲新聞頻道 300
-#EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="澳門資訊" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TDM-Info.jpg?token=APHMWEQ4HJEFIK5EBWVDDR3BOG2SM" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/TDM-Info.png?token=APHMWEWBSORVYY7O4LG4QUDBOL76S" group-title="Asian News 亞洲新聞頻道",澳門資訊
+# Local News 本地新聞頻道 300
+# 4078-NOW.HK
+#EXTINF:-1 tvg-id="NOW.HK" tvg-chno="301" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-News.jpg?token=APHMWETH3I33363HFXWCQ63BOG2TS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-News.png?token=APHMWEVA7XSNNVTYNBR6JLLBOMAMG" group-title="Local News 本地新聞頻道",now新聞台
+http://livetv.dnsfor.me/channel.4.m3u8
+#EXTINF:-1 tvg-id="7122" tvg-chno="302" tvg-name="有線新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-News.jpg?token=APHMWEWIX6F7NSMSJQVELRTBOG2TM" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/iCable-News.png?token=APHMWEX2D5THM7JXDDRDSGLBOMAMC" group-title="Local News 本地新聞頻道",有線新聞台
+https://api.leonardpark.dev/live/icable/109
+#EXTINF:-1 tvg-id="4080" tvg-chno="303" tvg-name="now財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Finance.jpg?token=APHMWETJJG57DEH3UDHY2LLBOG2TQ" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-Finance.png?token=APHMWERBRJVZ4BUXFPT7SN3BOMAMG" group-title="Local News 本地新聞頻道",now財經台
+http://ewcdnsite09.nowe.com/session/09-84f07aa83493667b00f0c13110c15/Content/HLS/LIVE/Channel(HLS_CH333)/index.m3u8?token=38da875f1002298696737714f560a277_1634162787
+#EXTINF:-1 tvg-id="7119" tvg-chno="304" tvg-name="有線財經資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-Finance.jpg?token=APHMWETVQQCQYSOJK2F7RTLBOG2TK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/iCable-Finance.png?token=APHMWEQEQUADQUOKRTJUBS3BOMAMA" group-title="Local News 本地新聞頻道",有線財經資訊台
+https://api.leonardpark.dev/live/icable/108
+#EXTINF:-1 tvg-id="4076" tvg-chno="305" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/now-Direct.jpg?token=APHMWEVB2BPGKPCKFDNQV7LBOG2TO" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/now-Direct.png?token=APHMWETIQISU3LFMXA4DNW3BOMAME" group-title="Local News 本地新聞頻道",now直播台
+http://livetv.dnsfor.me/channel.3.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="306" tvg-name="有線直播新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-LiveNews.jpg?token=APHMWEUDHVKFQXYVCDNMPHDBOG2TK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/iCable-LiveNews.png?token=APHMWEXNVY6CJP4X4ZC6XBTBOMAMA" group-title="Local News 本地新聞頻道",有線直播新聞台
+https://api.leonardpark.dev/live/icable/110
+#EXTINF:-1 tvg-id="" tvg-chno="307" tvg-name="港台視像新聞直播" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/RTHK-Live.jpg?token=APHMWEUMMW6FAVPY5G35II3BOG2SA" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/RTHK-Live.png?token=APHMWEWSIAA4Y335R5URKQ3BOMBGO" group-title="Local News 本地新聞頻道",港台視像新聞直播
+https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
+
+
+# Asian News 亞洲新聞頻道 310
+#EXTINF:-1 tvg-id="" tvg-chno="311" tvg-name="澳門資訊" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/TDM-Info.jpg?token=APHMWEQ4HJEFIK5EBWVDDR3BOG2SM" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/TDM-Info.png?token=APHMWEWBSORVYY7O4LG4QUDBOL76S" group-title="Asian News 亞洲新聞頻道",澳門資訊
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="302" tvg-name="廣州新聞頻道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/GZBN-News.jpg?token=APHMWEX7R7E2SE6GUOQORT3BOG2PW" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/GZBN-News.png?token=APHMWEVK7JHYNHURPDKWKCDBOL7UM" group-title="Asian News 亞洲新聞頻道",廣州新聞頻道
+#EXTINF:-1 tvg-id="" tvg-chno="312" tvg-name="廣州新聞頻道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/GZBN-News.jpg?token=APHMWEX7R7E2SE6GUOQORT3BOG2PW" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/GZBN-News.png?token=APHMWEVK7JHYNHURPDKWKCDBOL7UM" group-title="Asian News 亞洲新聞頻道",廣州新聞頻道
 https://aplay.gztv.com/sec/xinwen.m3u8
-#EXTINF:-1 tvg-id="14" tvg-chno="303" tvg-name="CCTV-13 新聞" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CCTV-13.jpg?token=APHMWEQXALU6EYWWPLUZA33BOG2PA" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CCTV-13.png?token=APHMWEVOU7YDM3JHTGUUR2TBOL7IG" group-title="Asian News 亞洲新聞頻道",CCTV-13 新聞
+#EXTINF:-1 tvg-id="14" tvg-chno="313" tvg-name="CCTV-13 新聞" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CCTV-13.jpg?token=APHMWEQXALU6EYWWPLUZA33BOG2PA" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CCTV-13.png?token=APHMWEVOU7YDM3JHTGUUR2TBOL7IG" group-title="Asian News 亞洲新聞頻道",CCTV-13 新聞
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 # 6108-4513
-#EXTINF:-1 tvg-id="6108" tvg-chno="304" tvg-name="三立iNEWS新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/SET-iNews.jpg?token=APHMWEWHWLVBVZYUL5C3TOTBOG2SI" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/SET-iNews.png?token=APHMWEQV34KQ74MHOZQMBQTBOL76O" group-title="Asian News 亞洲新聞頻道",三立iNEWS新聞台
+#EXTINF:-1 tvg-id="6108" tvg-chno="314" tvg-name="三立iNEWS新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/SET-iNews.jpg?token=APHMWEWHWLVBVZYUL5C3TOTBOG2SI" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/SET-iNews.png?token=APHMWEQV34KQ74MHOZQMBQTBOL76O" group-title="Asian News 亞洲新聞頻道",三立iNEWS新聞台
 http://seb.sason.top/sc/slinews_fhd.m3u8
 # 6071-4327
-#EXTINF:-1 tvg-id="6071" tvg-chno="305" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/FTV-News.jpg?token=APHMWEU26T3JJYZEWSXDFLTBOG2PS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/FTV-News.png?token=APHMWEULRHGPP5C3GX2UFQLBOL7EE" group-title="Asian News 亞洲新聞頻道",民視新聞台
+#EXTINF:-1 tvg-id="6071" tvg-chno="315" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/FTV-News.jpg?token=APHMWEU26T3JJYZEWSXDFLTBOG2PS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/FTV-News.png?token=APHMWEULRHGPP5C3GX2UFQLBOL7EE" group-title="Asian News 亞洲新聞頻道",民視新聞台
 http://210.61.56.23/hls/ftvtv/index.m3u8
 # 6069-4023
-#EXTINF:-1 tvg-id="6069" tvg-chno="306" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/EBC.jpg?token=APHMWEVMTM7VHTG6AO4XJSTBOG2PK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/EBC.png?token=APHMWEUMMVI6W452DGBFAHDBOL7EA" group-title="Asian News 亞洲新聞頻道",東森新聞台
+#EXTINF:-1 tvg-id="6069" tvg-chno="316" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/EBC.jpg?token=APHMWEVMTM7VHTG6AO4XJSTBOG2PK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/EBC.png?token=APHMWEUMMVI6W452DGBFAHDBOL7EA" group-title="Asian News 亞洲新聞頻道",東森新聞台
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-# 7482
-#EXTINF:-1 tvg-id="7482" tvg-chno="307" tvg-name="Channel NewsAsia" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CNA.jpg?token=APHMWESSZF3XIECCNESE75TBOG2PG" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CNA.png?token=APHMWEV646A22ZPFOC36AYTBOL7D2" group-title="Asian News 亞洲新聞頻道",CNA 亞洲新聞台
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="331" tvg-chno="308" tvg-name="NHK WORLD" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/NHK-World.jpg?token=APHMWEQUUG6UYIAVRGSQBCDBOG2QE" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/NHK-World.png?token=APHMWEWWTK4L6H3AJXZOBI3BOL7VA" group-title="Asian News 亞洲新聞頻道",NHK WORLD-JAPAN
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="310" tvg-name="日テレNEWS24" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/NTV-NEWS24.jpg?token=APHMWEWROSHFQM6FGJRYMGLBOG2R2" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/NTV-NEWS24.png?token=APHMWEXDMIY6WFYQNM2XI7TBOL7VC" group-title="Asian News 亞洲新聞頻道",日テレNEWS24
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-# NEW CHANNELS
-#EXTINF:-1 tvg-id="20" tvg-chno="309" tvg-name="CGTN" tvg-logo="http://static.epg.best/au/CGTN.au.png" group-title="Asian News 亞洲新聞頻道",CGTN
+#EXTINF:-1 tvg-id="20" tvg-chno="317" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CGTV.jpg?token=APHMWEWJXTEQUTLYI4SGXHLBOWKQG" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CGTN.png?token=APHMWEUKU7M76OO4WEUV3EDBOWMCU" group-title="Asian News 亞洲新聞頻道",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
-# NEW CHANNELS ENDS
+# 7482
+#EXTINF:-1 tvg-id="7482" tvg-chno="318" tvg-name="Channel NewsAsia" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CNA.jpg?token=APHMWESSZF3XIECCNESE75TBOG2PG" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CNA.png?token=APHMWEV646A22ZPFOC36AYTBOL7D2" group-title="Asian News 亞洲新聞頻道",CNA 亞洲新聞台
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="331" tvg-chno="319" tvg-name="NHK WORLD" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/NHK-World.jpg?token=APHMWEQUUG6UYIAVRGSQBCDBOG2QE" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/NHK-World.png?token=APHMWEWWTK4L6H3AJXZOBI3BOL7VA" group-title="Asian News 亞洲新聞頻道",NHK WORLD-JAPAN
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="320" tvg-name="日テレNEWS24" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/NTV-NEWS24.jpg?token=APHMWEWROSHFQM6FGJRYMGLBOG2R2" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/NTV-NEWS24.png?token=APHMWEXDMIY6WFYQNM2XI7TBOL7VC" group-title="Asian News 亞洲新聞頻道",日テレNEWS24
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-# European News 歐洲新聞頻道 310
-#EXTINF:-1 tvg-id="664" tvg-chno="311" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/BBC-World-News.jpg?token=APHMWEX5SWKU2G2NPL3USJLBOG2O4" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/BBC-World-News.png?token=APHMWESEH3TQSKEQSFOO64TBOL6KS" group-title="European News 歐洲新聞頻道",BBC World News
+
+# European News 歐洲新聞頻道 320
+#EXTINF:-1 tvg-id="664" tvg-chno="321" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/BBC-World-News.jpg?token=APHMWEX5SWKU2G2NPL3USJLBOG2O4" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/BBC-World-News.png?token=APHMWESEH3TQSKEQSFOO64TBOL6KS" group-title="European News 歐洲新聞頻道",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-id="742" tvg-chno="312" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Sky-News.jpg?token=APHMWEUO3SO7DLJXSZQE6HTBOG2SK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Sky-News.png?token=APHMWERHKIHAJXEBYCCH7JLBOL76Q" group-title="European News 歐洲新聞頻道",Sky News
+#EXTINF:-1 tvg-id="742" tvg-chno="322" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Sky-News.jpg?token=APHMWEUO3SO7DLJXSZQE6HTBOG2SK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Sky-News.png?token=APHMWERHKIHAJXEBYCCH7JLBOL76Q" group-title="European News 歐洲新聞頻道",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #730-4062
-#EXTINF:-1 tvg-id="730" tvg-chno="313" tvg-name="DW News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/DW-English.jpg?token=APHMWEUUW3SLTFFTSR3HA3DBOG2PI" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/DW-English.png?token=APHMWEV5IX5WRS5LUJXK4RTBOL7FY" group-title="European News 歐洲新聞頻道",DW News 德國之聲
+#EXTINF:-1 tvg-id="730" tvg-chno="323" tvg-name="DW News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/DW-English.jpg?token=APHMWEUUW3SLTFFTSR3HA3DBOG2PI" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/DW-English.png?token=APHMWEV5IX5WRS5LUJXK4RTBOL7FY" group-title="European News 歐洲新聞頻道",DW News 德國之聲
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 # 734-4069
-#EXTINF:-1 tvg-id="734" tvg-chno="314" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/France24.jpg?token=APHMWEUQANXPDYSHXMYGITTBOG2PS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/France24.png?token=APHMWEXQCJ2TAKTHPE4NFTLBOL7EI" group-title="European News 歐洲新聞頻道",France 24
+#EXTINF:-1 tvg-id="734" tvg-chno="324" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/France24.jpg?token=APHMWEUQANXPDYSHXMYGITTBOG2PS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/France24.png?token=APHMWEXQCJ2TAKTHPE4NFTLBOL7EI" group-title="European News 歐洲新聞頻道",France 24
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-# NEW CHANNELS
-#EXTINF:-1 tvg-id="6183" tvg-chno="315" tvg-name="Euronews" tvg-logo="https://static.epg.best/gb/EuroNews.uk.png" group-title="European News 歐洲新聞頻道",Euronews
+#EXTINF:-1 tvg-id="6183" tvg-chno="325" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/EuroNews.jpg?token=APHMWETDRSV5CUR4NAX3UW3BOWKQW" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/euronews.png?token=APHMWEQNBDTBQT6VFBYA3FTBOWMFE" group-title="European News 歐洲新聞頻道",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-# NEW CHANNELS ENDS
 
-#American News 美洲新聞頻道 320
-#EXTINF:-1 tvg-id="" tvg-chno="321" tvg-name="Global News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Global-News.jpg?token=APHMWEVX3TKYXOUVNBQ66ITBOG2PY" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Global-News.png?token=APHMWEQEHZVNTXG6CPOB6O3BOL7UQ" group-title="American News 美洲新聞頻道",Global News
+#American News 美洲新聞頻道 330
+#EXTINF:-1 tvg-id="" tvg-chno="331" tvg-name="Global News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/Global-News.jpg?token=APHMWEVX3TKYXOUVNBQ66ITBOG2PY" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Global-News.png?token=APHMWEQEHZVNTXG6CPOB6O3BOL7UQ" group-title="American News 美洲新聞頻道",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="6023" tvg-chno="322" tvg-name="CNN 國際新聞網絡" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CNN-International.jpg?token=APHMWES3ZUVX6EDL4Z7IN4DBOG2PI" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CNN-International.png?token=APHMWETRT3W7OYH6RA2XH73BOL7D4" group-title="American News 美洲新聞頻道",CNN 國際新聞網絡
+#EXTINF:-1 tvg-id="6023" tvg-chno="332" tvg-name="CNN 國際新聞網絡" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CNN-International.jpg?token=APHMWES3ZUVX6EDL4Z7IN4DBOG2PI" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CNN-International.png?token=APHMWETRT3W7OYH6RA2XH73BOL7D4" group-title="American News 美洲新聞頻道",CNN 國際新聞網絡
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-chno="325" tvg-name="Bloomberg+" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/BloombergTV%2B.jpg?token=APHMWER6YQCBHJBC5HEFFLLBOG2O4" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/BloombergTV%2B.png?token=APHMWEXPE2GNGNKAZZ2OHDLBOL6NG" group-title="American News 美洲新聞頻道",Bloomberg+
+#EXTINF:-1 tvg-id="" tvg-chno="333" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ABCNews.jpg?token=APHMWEQMDRP2UKAFGS2O5XDBOWKPQ" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/ABCNews.png?token=APHMWEWWGWHJCCF7SAOGGTTBOWMCO" group-title="American News 美洲新聞頻道",ABC News
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="334" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CBSNews.jpg?token=APHMWEQMP3AUZ73CHDXQWKTBOWKPY" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CBSNews.png?token=APHMWEX2CNT2O6JAWIHAQXLBOWMCQ" group-title="American News 美洲新聞頻道",CBS News
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 tvg-id="6140" tvg-chno="335" tvg-name="Bloomberg+" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/BloombergTV%2B.jpg?token=APHMWER6YQCBHJBC5HEFFLLBOG2O4" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/BloombergTV%2B.png?token=APHMWEXPE2GNGNKAZZ2OHDLBOL6NG" group-title="American News 美洲新聞頻道",Bloomberg+
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
 # https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-# NEW CHANNELS
-#EXTINF:-1 tvg-id="" tvg-chno="323" tvg-name="ABC News" tvg-logo="http://www.trospercommunications.com/blog/wp-content/uploads/2017/10/logo_abc_news.png" group-title="American News 美洲新聞頻道",ABC News
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="324" tvg-name="CBS News" tvg-logo="http://kkdjradio.com/wp-content/uploads/2019/01/cbs-news.png" group-title="American News 美洲新聞頻道",CBS News
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 tvg-id="ICI.News" tvg-chno="326" tvg-name="ICI RDI" tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="American News 美洲新聞頻道",ICi RDI
+#EXTINF:-1 tvg-id="ICI.News" tvg-chno="336" tvg-name="ICI RDI" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ICI-RDI.jpg?token=APHMWEQ4VIZC7AGTBO25KC3BOWKSK" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/ICI-RDI.png?token=APHMWEXRDGCBFY2ZPXJYSCDBOWMDY" group-title="American News 美洲新聞頻道",ICi RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
-# NEW CHANNELS ENDS
 
-# Other News 其他新聞頻道 330
-#EXTINF:-1 tvg-id="7183" tvg-chno="331" tvg-name="Al-Jazeera English" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Al-Jazeera-English.jpg?token=APHMWERJOFRJ5MRZHN4Q6P3BOL6CU" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Al-Jazeera-English.png?token=APHMWEV2WEPFKXVKN6GHI73BOL6KO" group-title="Int'l News 國際新聞頻道",Al-Jazeera English 半島電視台英語頻道
+# Other News 其他新聞頻道 340
+#EXTINF:-1 tvg-id="7183" tvg-chno="341" tvg-name="Al-Jazeera English" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Al-Jazeera-English.jpg?token=APHMWERJOFRJ5MRZHN4Q6P3BOL6CU" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Al-Jazeera-English.png?token=APHMWEV2WEPFKXVKN6GHI73BOL6KO" group-title="Int'l News 國際新聞頻道",Al-Jazeera English 半島電視台英語頻道
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="7100" tvg-chno="332" tvg-name="ABC Australia News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/ABC-Australia-News.jpg?token=APHMWEVFPUYL4YKRP5GEMK3BOG2OW" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/ABC-Australia-News.png?token=APHMWETH6DMXKTUFL4EIEATBOL6KK" group-title="Int'l News 國際新聞頻道",ABC Australia News
+#EXTINF:-1 tvg-id="7100" tvg-chno="342" tvg-name="ABC Australia News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/ABC-Australia-News.jpg?token=APHMWEVFPUYL4YKRP5GEMK3BOG2OW" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/ABC-Australia-News.png?token=APHMWETH6DMXKTUFL4EIEATBOL6KK" group-title="Int'l News 國際新聞頻道",ABC Australia News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
 
 # Entertainment 娛樂頻道 500
-#EXTINF:-1 tvg-id="" tvg-chno="501" tvg-name="ET Live" tvg-logo="http://upload.wikimedia.org/wikipedia/en/3/32/Entertainment_Tonight_2014_logo.png" group-title="Entertainment 娛樂頻道",ET Live
+#EXTINF:-1 tvg-id="" tvg-chno="501" tvg-name="ET Live" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ET-Live.png?token=APHMWEVQ2YTDLDGZSF2WEALBOWKQU" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/ET-Live.png?token=APHMWEXKR5BQGBQFZBCUHCLBOWMUI" group-title="Entertainment 娛樂頻道",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
-#EXTINF:-1 tvg-id="" tvg-chno="502" tvg-name="Red Bull TV" tvg-logo="https://logos-download.com/wp-content/uploads/2016/09/Red_Bull_TV_logo.png" group-title="Entertainment 娛樂頻道",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
 # Sports 體育頻道 600
 # 4204-NOP.HK
@@ -211,30 +203,33 @@ http://live3.tdm.com.mo:1935/ch4/sport_ch4.live/playlist.m3u8
 https://aplay.gztv.com/sec/jingsai.m3u8
 #EXTINF:-1 tvg-id="5" tvg-chno="604" tvg-name="CCTV-5 體育" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CCTV-5.jpg?token=APHMWEQJG6KGDPCM2S5LY43BOG2PE" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CCTV-5.png?token=APHMWEUFGBLNOQLG5RNRPZDBOL7DW" group-title="Sports 體育頻道",CCTV-5 體育
 http://livetv.dnsfor.me/channel.17.m3u8
-# NEW CHANNELS
-#EXTINF:-1 tvg-id="" tvg-chno="605" tvg-name="Edge Sports" tvg-logo="https://static.epg.best/gr/EdgeSport.gr.png" group-title="Sports 體育頻道",Edge Sports
-https://edgesports-stirr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="STA.US" tvg-chno="606" tvg-name="Stadium" tvg-logo="http://static.epg.best/us/Stadium.us.png" group-title="Sports 體育頻道",Stadium
+#EXTINF:-1 tvg-id="" tvg-chno="605" tvg-name="Red Bull TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/RedBull-TV.png?token=APHMWEQHVK5TQEZMDMQYR4TBOWKSW" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/RedBull-TV.png?token=APHMWEX67TWBS67MPRZQGK3BOWMEM" group-title="Entertainment 娛樂頻道",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-id="STA.US" tvg-chno="606" tvg-name="Stadium" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Stadium.jpg?token=APHMWEUAZTQ2V56ZOF3O7V3BOWKS4" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Stadium.png?token=APHMWEUFHI54V7QAZYKYL3DBOWMEW" group-title="Sports 體育頻道",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 tvg-id="NFL.US" tvg-chno="611" tvg-name="NFL Network" tvg-logo="https://static.epg.best/us/NFLNetwork.us.png" group-title="Sports 體育頻道",NFL Network
+#EXTINF:-1 tvg-id="" tvg-chno="607" tvg-name="Edge Sports" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/EDGE-Sports.jpg?token=APHMWESX4W6NEHEGOQI2ARTBOWKQS" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/EDGE-Sports.png?token=APHMWES4KV4ZAPTFSLLHGELBOWMC4" group-title="Sports 體育頻道",Edge Sports
+https://edgesports-stirr.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NFL.US" tvg-chno="611" tvg-name="NFL Network" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/NFL.jpg?token=APHMWEXPDQ47ISZZDM4VQK3BOWKSQ" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/NFL.png?token=APHMWEVUIWRLIDR7WPNZ4CLBOWMEA" group-title="Sports 體育頻道",NFL Network
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=708&deviceId=5ced7d5df64be98e07ed47b6&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 tvg-id="" tvg-chno="612" tvg-name="MLS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" group-title="Sports 體育頻道",MLS TV
+#EXTINF:-1 tvg-id="" tvg-chno="612" tvg-name="MLS TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/MLS-TV.jpg?token=APHMWEUMZPURT3TWKZRLI63BOWKSM" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/MLS.png?token=APHMWETSXQW767XU7RFX5ILBOWMD4" group-title="Sports 體育頻道",MLS TV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 tvg-id="" tvg-chno="621" tvg-name="Harley Davidson TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/1200px-Harley-Davidson_logo.svg.png" group-title="Sports 體育頻道",Harley Davidson TV
+
+#EXTINF:-1 tvg-id="" tvg-chno="621" tvg-name="Harley Davidson TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HTV.jpg?token=APHMWEUMJFBDOJOYDKYE3VTBOWKSI" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/HTV.png?token=APHMWET2GH2L77HQRXWBDU3BOWMDW" group-title="Sports 體育頻道",Harley Davidson TV
 https://hdtv.prod2.ioio.tv/broker/play/190dac2c-bf76-47e9-9b8f-0d31567f5401.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="622" tvg-name="Harley Davidson Racing TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/1200px-Harley-Davidson_logo.svg.png" group-title="Sports 體育頻道",Harley Davidson Racing TV
+#EXTINF:-1 tvg-id="" tvg-chno="622" tvg-name="Harley Davidson Racing TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HTV.jpg?token=APHMWEUMJFBDOJOYDKYE3VTBOWKSI" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/HTV.png?token=APHMWET2GH2L77HQRXWBDU3BOWMDW" group-title="Sports 體育頻道",Harley Davidson Racing TV
 https://hdtv.prod2.ioio.tv/broker/play/de245a96-516c-413d-81e9-419c05bbc6a7.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="623" tvg-name="Harley Davidson Factory TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/1200px-Harley-Davidson_logo.svg.png" group-title="Sports 體育頻道",Harley Davidson Factory TV
+#EXTINF:-1 tvg-id="" tvg-chno="623" tvg-name="Harley Davidson Factory TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HTV.jpg?token=APHMWEUMJFBDOJOYDKYE3VTBOWKSI" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/HTV.png?token=APHMWET2GH2L77HQRXWBDU3BOWMDW" group-title="Sports 體育頻道",Harley Davidson Factory TV
 https://hdtv.prod2.ioio.tv/broker/play/c35b7928-0fdc-4ee1-a3d5-9d5934a64dfc.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="624" tvg-name="Harley Davidson Garage TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Harley-Davidson_logo.svg/1200px-Harley-Davidson_logo.svg.png" group-title="Sports 體育頻道",Harley Davidson Garage TV
+#EXTINF:-1 tvg-id="" tvg-chno="624" tvg-name="Harley Davidson Garage TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HTV.jpg?token=APHMWEUMJFBDOJOYDKYE3VTBOWKSI" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/HTV.png?token=APHMWET2GH2L77HQRXWBDU3BOWMDW" group-title="Sports 體育頻道",Harley Davidson Garage TV
 https://hdtv.prod2.ioio.tv/broker/play/b3bd10d9-0a2d-4307-b725-ffe797d40594.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="631" tvg-name="Racing.com" tvg-logo="http://static.epg.best/au/RacingCom.au.png" group-title="Sports 體育頻道",Racing.com
+
+#EXTINF:-1 tvg-id="" tvg-chno="631" tvg-name="Racing.com" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Racing.com.jpg?token=APHMWEWTVO55YQASZXCVY5LBOWLPI" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Racing.com.png?token=APHMWEVXV65BWZTX25OCV53BOWMEK" group-title="Sports 體育頻道",Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="632" tvg-name="Sky 1 Racing" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="Sports 體育頻道",Sky 1 Racing
+#EXTINF:-1 tvg-id="" tvg-chno="632" tvg-name="Sky 1 Racing" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Sky-1.jpg?token=APHMWEW6PFFPO7RMJL2CFODBOWKSY" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Sky-1.png?token=APHMWESA6SNLLYCNMGUHMMDBOWMES" group-title="Sports 體育頻道",Sky 1 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="633" tvg-name="Sky 2 Racing" tvg-logo="https://static.epg.best/au/SKYRacing.au.png" group-title="Sports 體育頻道",Sky 2 Racing
+#EXTINF:-1 tvg-id="" tvg-chno="633" tvg-name="Sky 2 Racing" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Sky-2.jpg?token=APHMWEUUHWPOE5VLQFKEZDTBOWKS2" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/Sky-2.png?token=APHMWES5I6SVAOUZHPNJA2TBOWMEU" group-title="Sports 體育頻道",Sky 2 Racing
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
-# NEW CHANNELS END
 
 #MTV 音樂頻道 700
 #EXTINF:-1 tvg-id="" tvg-chno="701" tvg-name="CMT" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/CMT.jpg?token=APHMWEWTUPCRBABJKCCHJOTBOG2PE" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/CMT.png?token=APHMWEXV2F6PU345NH2DWBDBOL7II" group-title="MTV 音樂頻道",CMT  
@@ -245,20 +240,5 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8  
 #EXTINF:-1 tvg-id="" tvg-chno="704" tvg-name="MTV Biggest Pop" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/MTV-BiggestPop.jpg?token=APHMWETKJBKZXBAG6MVIFWLBOG2QA" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/MTV-BiggestPop.png?token=APHMWEU4RJOHUYHVXLKJXILBOL7KK" group-title="MTV 音樂頻道",MTV Biggest Pop
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-# NEW CHANNELS
-#EXTINF:-1 tvg-id="" tvg-chno="705" tvg-name="MTV Yo!" tvg-logo="http://www.vibee.tv/wp-content/uploads/2019/03/logo_v2beat_page_small-1-2.png" group-title="MTV 音樂頻道",MTV Yo!
+#EXTINF:-1 tvg-id="" tvg-chno="705" tvg-name="MTV Yo!" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/MTV-Yo.png?token=APHMWESW7QC4525ZGZYGVW3BOWN4Q" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/MTV-Yo.png?token=APHMWEVP4MBPXV5ILBGN463BOWN4E" group-title="MTV 音樂頻道",MTV Yo!
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-# NEW CHANNELS END
-
-
-#INVALID-LINKS
-# #EXTINF:-1 tvg-chno="61" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/331.png?token=APHMWESVJ3MCVDWX32BN4GDBOBKRC" group-title="[PCCW] 電訊盈科",now直播台
-# https://nowcom-newsstream-hk.viu.com/getnowmediahls/qcfrOT7-tLj6L7T6uh6ylQ/1634157152/smil:331.smil/playlist.m3u8
-# #EXTINF:-1 tvg-chno="62" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-logo/332.png?token=APHMWEX2XYKRZUBRWMDMV23BOBKRG" group-title="[PCCW] 電訊盈科",now新聞台
-# https://nowcom-newsstream-hk.viu.com/getnowmediahls/l125QWOO99Vv6GpHrJiQtg/1634156476/smil:332.smil/playlist.m3u8
-# #EXTINF:-1 tvg-chno="052" tvg-name="有線新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-News.jpg?token=APHMWEWIX6F7NSMSJQVELRTBOG2TM" group-title="[i-Cable] 有線電視",有線新聞台
-# https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfdf4-1634138762-1634225342-934fde903df02de76ec21f4adc9decb3-8d98ea13d6182c9_786-03/freehd209_h.live/playlist.m3u8
-# #EXTINF:-1 tvg-chno="051" tvg-name="有線財經資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-Finance.jpg?token=APHMWETVQQCQYSOJK2F7RTLBOG2TK" group-title="[i-Cable] 有線電視",有線財經資訊台
-# https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfe18-1634138762-1634225342-9a822319d2709468ee990f921c45c48e-8d98ea13da7939d_542-03/freehd208_h.live/playlist.m3u8
-# #EXTINF:-1 tvg-chno="053" tvg-name="有線直播新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/52c0a1807c79c36c1febaaf105161caf6006c27d/channel-banner/iCable-LiveNews.jpg?token=APHMWEUDHVKFQXYVCDNMPHDBOG2TK" group-title="[i-Cable] 有線電視",有線直播新聞台
-# https://uc6.i-cable.com/liveJoemud_ts/_definst_/4-23cbfe11-1634138761-1634225341-6665baaa95fb7faa93aa3bbe89082691-8d98ea13d573f82_845-03/Stream1/playlist.m3u8
