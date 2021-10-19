@@ -1,9 +1,11 @@
 #EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/fr/programme-tv.net.epg.xml,https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvtv.us.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml"
-# Australia, Canada, China, France, Hong Kong, Malaysia
+
+# Australia, Canada, China, France, Malaysia
+# Missing: Hong Kong, Singapore, South Korea
 # EPG: http://epg.51zmt.top:8000 https://hkdtmb.com/epg
 # m3u8 res: https://github.com/palmkid/iptv/blob/master/iptv https://github.com/gohhh1234/IPTV-2
 
-#EXTINF:-1 tvg-id="PlutoTVHISTORY.us" tvg-chno="001" group-title="N/A" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg",HISTORY 歷史頻道
+#EXTINF:-1 tvg-id="PlutoTVHISTORY.us" tvg-chno="001" tvg-logo="http://i1.kym-cdn.com/entries/icons/original/000/019/322/photo.jpg",HISTORY 歷史頻道
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=651&deviceId=5a4d35dfa5c02e717a234f86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 tvg-id="NASATVMedia.us" tvg-chno="002" tvg-name="NASA TV Media" tvg-country="US" tvg-language="English" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTupMmB3cw51YJqk8xVO8WZj3yDVr70ayrxkkLS0_SMNT7pR0t6" group-title="United States",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
