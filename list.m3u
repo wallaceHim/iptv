@@ -16,17 +16,17 @@
 
 # Local Channels 000
 # NowTV
-#EXTINF:-1 tvg-id="NOW.HK" tvg-chno="051" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",now新聞台
+#EXTINF:-1 tvg-id="" tvg-chno="051" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",now新聞台
 http://livetv.dnsfor.me/channel.4.m3u8
-#EXTINF:-1 tvg-id="4080" tvg-chno="052" tvg-name="now財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-Finance.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Finance",now財經台
+#EXTINF:-1 tvg-id="" tvg-chno="052" tvg-name="now財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-Finance.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Finance",now財經台
 http://ewcdnsite09.nowe.com/session/09-84f07aa83493667b00f0c13110c15/Content/HLS/LIVE/Channel(HLS_CH333)/index.m3u8?token=38da875f1002298696737714f560a277_1634162787
-#EXTINF:-1 tvg-id="4076" tvg-chno="053" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-Direct.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",now直播台
+#EXTINF:-1 tvg-id="" tvg-chno="053" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-Direct.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",now直播台
 http://livetv.dnsfor.me/channel.3.m3u8
 
 # i-Cable
-#EXTINF:-1 tvg-id="7122" tvg-chno="061" tvg-name="有線新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/iCable-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",有線新聞台
+#EXTINF:-1 tvg-id="7122" tvg-chno="061" tvg-name="有线新闻台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/iCable-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",有線新聞台
 https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="7119" tvg-chno="062" tvg-name="有線財經資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/iCable-Finance.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Finance",有線財經資訊台
+#EXTINF:-1 tvg-id="7119" tvg-chno="062" tvg-name="有线财经资讯台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/iCable-Finance.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Finance",有線財經資訊台
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-id="" tvg-chno="063" tvg-name="有線直播新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/iCable-LiveNews.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",有線直播新聞台
 https://api.leonardpark.dev/live/icable/110
@@ -118,7 +118,7 @@ http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 
 
 
-# TV Series 電視劇頻道 140
+# TV Series 140
 #EXTINF:-1 tvg-id="" tvg-chno="141" tvg-name="民視影劇台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-Drama.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="TV Series",民視影劇台
 http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-chno="142" tvg-name="Astro雙星" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Astro-SHX.jpg" tvg-country="Malaysia" tvg-language="Mandarin" group-title="TV Series",Astro雙星
@@ -126,7 +126,7 @@ http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
 
 
-# Variety 綜藝頻道 150
+# Variety 150
 #EXTINF:-1 tvg-id="7145" tvg-chno="151" tvg-name="民视综艺台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-Variety.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="Variety",民視綜藝台
 http://seb.sason.top/ptv/ftv.php?id=zy
 
@@ -147,7 +147,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf
 
 
 
-# Documentary 紀錄片頻道 210
+# Documentary 210
 #EXTINF:-1 tvg-id="8" tvg-chno="211" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-7.jpg" tvg-country="China" tvg-language="Mandarin" group-title="Documentary",CCTV-7 國防軍事
 http://39.130.202.114:6610/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
 #EXTINF:-1 tvg-id="10" tvg-chno="212" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-9.jpg" tvg-country="China" tvg-language="Mandarin" group-title="Documentary",CCTV-9 紀錄
@@ -179,7 +179,7 @@ https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8\
 
 
 
-# Asian News 亞洲新聞頻道 300
+# Asian News 300
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="澳門資訊" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TDM-Info.jpg" tvg-country="Macau" tvg-language="Cantonese" group-title="News",澳門資訊
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="GuangZhouXinWen.cn" tvg-chno="302" tvg-name="廣州新聞頻道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/GZBN-News.jpg" tvg-country="China" tvg-language="Mandarin;Cantonese" group-title="News",廣州新聞頻道
@@ -206,7 +206,7 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 
-# European News 歐洲新聞頻道 310
+# European News 310
 #EXTINF:-1 tvg-id="664" tvg-chno="311" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/BBC-World-News.jpg" tvg-country="United Kingdom" tvg-language="English" group-title="News",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
 #EXTINF:-1 tvg-id="742" tvg-chno="312" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Sky-News.jpg" tvg-country="United Kingdom" tvg-language="English" group-title="News",Sky News
@@ -223,7 +223,7 @@ http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 # https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#American News 美洲新聞頻道 320
+#American News 320
 #EXTINF:-1 tvg-id="GlobalNewsNational.ca" tvg-chno="321" tvg-name="Global News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Global-News.jpg" tvg-country="Canada" tvg-language="English" group-title="News",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-chno="322" tvg-name="CNN 國際新聞網絡" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CNN-International.jpg" tvg-country="United States" tvg-language="English" group-title="News",CNN 國際新聞網絡
@@ -235,7 +235,7 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-chno="325" tvg-name="ICI RDI" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ICI-RDI.jpg" tvg-country="Canada" tvg-language="French" group-title="News",ICi RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
-# Other News 其他新聞頻道 330
+# Other News 330
 #EXTINF:-1 tvg-id="7183" tvg-chno="331" tvg-name="Al-Jazeera English" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Al-Jazeera-English.jpg" tvg-country="Qatar" tvg-language="English" group-title="News",Al-Jazeera English 半島電視台英語頻道
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="7100" tvg-chno="332" tvg-name="ABC Australia News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ABC-Australia-News.jpg" tvg-country="Australia" tvg-language="English" group-title="News",ABC Australia News
@@ -251,7 +251,7 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
 
 
-# Finance 財經頻道 340
+# Finance 340
 #EXTINF:-1 tvg-id="2" tvg-chno="341" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-2.jpg" tvg-country="China" tvg-language="Mandarin" group-title="Finance",CCTV-2 財經
 http://39.130.202.114:6610/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-chno="342" tvg-name="Bloomberg Asia" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Bloomberg.jpg" tvg-country="United States" tvg-language="English" group-title="Finance",Bloomberg Asia 彭博亞洲財經台
@@ -267,7 +267,7 @@ https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
 
 
-# Movie 電影頻道 400
+# Movie 400
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.hk" tvg-chno="401" tvg-name="天映頻道 (印尼)" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Celestial-Movies.jpg" tvg-country="Hong Kong" tvg-language="Cantonese;Mandarin" group-title="Movies",天映頻道 (印尼)
 http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-chno="402" tvg-name="Celestial Classic" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CelestialClassic.jpg" tvg-country="Hong Kong" tvg-language="Cantonese;Mandarin" group-title="Movies",天映經典頻道
@@ -293,13 +293,13 @@ https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
 
 
 
-# Entertainment 娛樂頻道 500
+# Entertainment 500
 #EXTINF:-1 tvg-id="" tvg-chno="501" tvg-name="ET Live" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ET-Live.png" tvg-country="United States" tvg-language="English" group-title="Entertainment",ET Live
 https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
 
 
 
-# Sports 體育頻道 600
+# Sports 600
 # 4204-NOP.HK
 #EXTINF:-1 tvg-id="NOP.HK" tvg-chno="601" tvg-name="Now Sports 精選" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-Sports-Prime.jpg" tvg-country="Hong Kong" tvg-language="Cantonese;English" group-title="Sports",Now Sports 精選
 http://livetv.dnsfor.me/channel.12.m3u8
@@ -367,7 +367,7 @@ https://www.navchina.cf/IPTV/sbs.php?id=S05
 
 
 
-#Music 音樂頻道 700
+#Music 700
 #EXTINF:-1 tvg-id="CMTMusic.us" tvg-chno="701" tvg-name="CMT" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CMT.jpg" tvg-country="United States" tvg-language="English" group-title="Music",CMT  
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8  
 #EXTINF:-1 tvg-id="" tvg-chno="702" tvg-name="MTV Spankin New" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/MTV-SpankinNew.jpg" tvg-country="United States" tvg-language="English" group-title="Music",MTV Spankin New
