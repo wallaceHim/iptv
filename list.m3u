@@ -54,16 +54,19 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="81" tvg-chno="081" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Jade.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",翡翠台
 http://livetv.dnsfor.me/channel.18.m3u8
 #EXTINF:-1 tvg-id="81" tvg-chno="081-2" tvg-name="翡翠台 (中英字幕)" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Jade.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",翡翠台 (中英字幕)
-https://cdn.hkdtmb.com/hls/81b/index.m3u8
+# https://cdn.hkdtmb.com/hls/81b/index.m3u8
+http://iptv.tvfix.org/hls/jade.m3u8
 # 416
 #EXTINF:-1 tvg-id="82" tvg-chno="082" tvg-name="J2台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-J2.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",J2台
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+# https://cdn.hkdtmb.com/hls/82/index.m3u8
+http://iptv.tvfix.org/hls/j2.m3u8
 # 130
 #EXTINF:-1 tvg-id="83" tvg-chno="083" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",無綫新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
 # 127
 #EXTINF:-1 tvg-id="84" tvg-chno="084" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Pearl.jpg" tvg-country="Hong Kong" tvg-language="English;Mandarin" group-title="Generalist",明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
+# https://cdn.hkdtmb.com/hls/84/index.m3u8
+http://iptv.tvfix.org/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="84" tvg-chno="084-2" tvg-name="明珠台 (粵語聲道)" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Pearl.jpg" tvg-country="Hong Kong" tvg-language="English;Mandarin" group-title="Generalist",明珠台 (粵語聲道)
 https://cdn.hkdtmb.com/hls/84b/index.m3u8
 # 133
