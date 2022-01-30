@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000"
 
 # AUSTRALIA: https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml
 # CANADA: https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml
@@ -12,7 +12,12 @@
 # EPG: http://epg.51zmt.top:8000 https://hkdtmb.com/epg
 # m3u8 res: https://github.com/palmkid/iptv/blob/master/iptv https://github.com/gohhh1234/IPTV-2
 
+
+
+# 
 # Local Channels 000
+# 
+
 # NowTV
 #EXTINF:-1 tvg-id="" tvg-chno="051" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",now新聞台
 http://livetv.dnsfor.me/channel.4.m3u8
@@ -88,7 +93,12 @@ https://cdn.hkyoutv.com/hls/99/index.m3u8
 http://iptv.tvfix.org/hls/viutv2.m3u8
 
 
-# Generalist 100
+
+# 
+# 100 Generalist + TV Series + Variety
+# 
+
+# 100 Cantonese
 #EXTINF:-1 tvg-id="AoShiAoMen.cn" tvg-chno="101" tvg-name="澳視澳門" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TDM-OuMun.jpg" tvg-country="Macau" tvg-language="Cantonese" group-title="Generalist",澳視澳門
 http://61.244.22.4/ch1/ch1.live/index.m3u8
 #EXTINF:-1 tvg-id="AoShiPuWen.cn" tvg-chno="102" tvg-name="澳視葡文" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TDM-Macau.jpg" tvg-country="Macau" tvg-language="Portuguese;English" group-title="Generalist",澳視葡文
@@ -100,6 +110,7 @@ https://aplay.gztv.com/sec/fazhi.m3u8
 #EXTINF:-1 tvg-id="FoShanGongGong.cn" tvg-chno="105" tvg-name="佛山公共" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FS-Public.jpg" tvg-country="China" tvg-language="Mandarin;Cantonese" group-title="Generalist",佛山公共頻道
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
 
+# 110 Mandarin
 #EXTINF:-1 tvg-id="1" tvg-chno="111" tvg-name="CCTV-1 綜合" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-1.jpg" tvg-country="China" tvg-language="Mandarin" group-title="Generalist",CCTV-1 綜合
 http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="4" tvg-chno="112" tvg-name="CCTV-4 中文國際" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-4.jpg" tvg-country="China" tvg-language="Mandarin" group-title="Generalist",CCTV-4 中文國際
@@ -113,9 +124,11 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 #EXTINF:-1 tvg-id="MST.TW" tvg-chno="115" tvg-name="民视台湾台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-Taiwan.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="Generalist",民視台灣台
 http://seb.sason.top/ptv/ftv.php?id=tw
 
+# 120 English
 #EXTINF:-1 tvg-id="KBSWorld.kr" tvg-chno="121" tvg-name="KBS World" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/KBS-World.jpg" tvg-country="South Korea" tvg-language="English" group-title="Generalist",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 
+# 130 Other Languages
 #EXTINF:-1 tvg-id="SBS.kr" tvg-chno="131" tvg-name="SBS" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/SBS.jpg" tvg-country="South Korea" tvg-language="Korean" group-title="Generalist",SBS
 https://www.navchina.cf/IPTV/sbs.php?id=S01
 #EXTINF:-1 tvg-id="TokyoMX1.jp" tvg-chno="132" tvg-name="Tokyo MX1" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Tokyo-MX1.jpg" tvg-country="Japan" tvg-language="Japanese" group-title="Generalist",Tokyo MX1
@@ -123,38 +136,34 @@ https://movie.mcas.jp/mcas/mx_live_2/master.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="TokyoMX2.jp" tvg-chno="133" tvg-name="Tokyo MX2" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Tokyo-MX2.jpg" tvg-country="Japan" tvg-language="Japanese" group-title="Generalist",Tokyo MX2
 http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
 
-
-
-# TV Series 140
+# 140 TV Series
 #EXTINF:-1 tvg-id="" tvg-chno="141" tvg-name="民視影劇台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-Drama.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="TV Series",民視影劇台
 http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-chno="142" tvg-name="Astro雙星" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Astro-SHX.jpg" tvg-country="Malaysia" tvg-language="Mandarin" group-title="TV Series",Astro雙星
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
 
-
-
-# Variety 150
+# 150 Variety
 #EXTINF:-1 tvg-id="7145" tvg-chno="151" tvg-name="民视综艺台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-Variety.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="Variety",民視綜藝台
 http://seb.sason.top/ptv/ftv.php?id=zy
 
 
 
-# Infotainment 200
+# 
+# 200 Infotainment + Documentary
+# 
+
+# 200 Infotainment
 #EXTINF:-1 tvg-id="" tvg-chno="201" tvg-name="民視旅遊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-Travel.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="Infotainment",民視旅遊台
 http://seb.sason.top/ptv/ftv.php?id=ly
 # 6167-HGTVAsia.us
-#EXTINF:-1 tvg-id="6167" tvg-chno="202" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HGTV.jpg" tvg-country="United States" tvg-language="English" group-title="Infotainment",HGTV 居家樂活頻道
+#EXTINF:-1 tvg-id="6167" tvg-chno="202" tvg-name="HGTV居家乐活" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HGTV.jpg" tvg-country="United States" tvg-language="English" group-title="Infotainment",HGTV 居家樂活頻道
 http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-# Tastemade.uk
-#EXTINF:-1 tvg-id="" tvg-chno="203" tvg-name="Tastemade" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Tastemade.jpg" tvg-country="United States" tvg-language="English" group-title="Infotainment",Tastemade
+#EXTINF:-1 tvg-id="Tastemade.uk" tvg-chno="203" tvg-name="Tastemade" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Tastemade.jpg" tvg-country="United States" tvg-language="English" group-title="Infotainment",Tastemade
 https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
-# BBCFood.us
-#EXTINF:-1  tvg-id="" tvg-chno="204" tvg-name="BBC Food" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/BBC-Food.jpg" tvg-country="United Kingdom" tvg-language="English" group-title="Infotainment",BBC Food
+#EXTINF:-1  tvg-id="BBCFood.us" tvg-chno="204" tvg-name="BBC Food" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/BBC-Food.jpg" tvg-country="United Kingdom" tvg-language="English" group-title="Infotainment",BBC Food
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fb5844bf5514d0007945bda/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-
-
-# Documentary 210
+# 210 Documentary - Mandarin
 #EXTINF:-1 tvg-id="8" tvg-chno="211" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-7.jpg" tvg-country="China" tvg-language="Mandarin" group-title="Documentary",CCTV-7 國防軍事
 http://39.130.202.114:6610/gitv_live/G_CCTV-7-HD/G_CCTV-7-HD.m3u8
 #EXTINF:-1 tvg-id="10" tvg-chno="212" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-9.jpg" tvg-country="China" tvg-language="Mandarin" group-title="Documentary",CCTV-9 紀錄
@@ -164,106 +173,110 @@ http://39.130.202.114:6610/gitv_live/G_CCTV-10-HD/G_CCTV-10-HD.m3u8
 #EXTINF:-1 tvg-id="17" tvg-chno="214" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-17.jpg" tvg-country="China" tvg-language="Mandarin" group-title="Documentary",CCTV-17 農業農村
 http://39.130.202.114:6610/gitv_live/G_CCTV-17-HD/G_CCTV-17-HD.m3u8
 
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-chno="221" tvg-name="CGTNDocumentary" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CGTV-Documentary.jpg" tvg-country="China" tvg-language="English" group-title="Documentary",CGTN Documentary 中國環球電視網紀錄頻道
+# 210 Documentary - English
+#EXTINF:-1 tvg-id="891" tvg-chno="221" tvg-name="CGTNDocumentary" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CGTV-Documentary.jpg" tvg-country="China" tvg-language="English" group-title="Documentary",CGTN Documentary 中國環球電視網紀錄頻道
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 tvg-id="6141" tvg-chno="222" tvg-name="Arirang TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/arirangTV.jpg" tvg-country="South Korea" tvg-language="English" group-title="Documentary",Arirang TV
+#EXTINF:-1 tvg-id="6141" tvg-chno="222" tvg-name="ArirangTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/arirangTV.jpg" tvg-country="South Korea" tvg-language="English" group-title="Documentary",Arirang TV
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="691" tvg-chno="223" tvg-name="国家地理频道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/National-Geographic.jpg" tvg-country="Hong Kong" tvg-language="English" group-title="Documentary",National Geographic 國家地理頻道
+http://iptv.tvfix.org/hls/natlgeo.m3u8
 # 427-NationalGeographicWildAsia.us
-#EXTINF:-1 tvg-id="427" tvg-chno="223" tvg-name="国家地理野生频道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/NatGeo-Wild.jpg" tvg-country="Hong Kong" tvg-language="English" group-title="Documentary",NatGeo Wild 國家地理野生頻道
+#EXTINF:-1 tvg-id="427" tvg-chno="224" tvg-name="国家地理野生频道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/NatGeo-Wild.jpg" tvg-country="Hong Kong" tvg-language="English" group-title="Documentary",NatGeo Wild 國家地理野生頻道
 http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-# 6039
-#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.us" tvg-chno="224" tvg-name="动物星球" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Animal-Planet.jpg" tvg-country="United States" tvg-language="English" group-title="Documentary" ,Animal Planet 動物星球頻道
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-chno="225" tvg-name="动物星球" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Animal-Planet.jpg" tvg-country="United States" tvg-language="English" group-title="Documentary" ,Animal Planet 動物星球頻道
+http://iptv.tvfix.org/hls/animal.m3u8
+# http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanetSoutheastAsia.us" tvg-chno="2245-2" tvg-name="动物星球" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Animal-Planet.jpg" tvg-country="United States" tvg-language="English" group-title="Documentary" ,Animal Planet 動物星球頻道 (第2聲道)
+http://iptv.tvfix.org/hls/animal2.m3u8
 # PlutoTVHISTORY.us
-#EXTINF:-1 tvg-id="7152" tvg-chno="225" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/History.jpg" tvg-country="United States" tvg-language="English" group-title="Documentary",HISTORY 歷史頻道
+#EXTINF:-1 tvg-id="7152" tvg-chno="226" tvg-name="History" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/History.jpg" tvg-country="United States" tvg-language="English" group-title="Documentary",HISTORY 歷史頻道
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=651&deviceId=5a4d35dfa5c02e717a234f86&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 # SmithsonianChannelAsia.us
-#EXTINF:-1  tvg-id="" tvg-chno="226" tvg-name="Smithsonian Channel" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Smithsonian.jpg" tvg-country="United States" tvg-language="English" group-title="Documentary",Smithsonian Channel
+#EXTINF:-1  tvg-id="" tvg-chno="227" tvg-name="Smithsonian Channel" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Smithsonian.jpg" tvg-country="United States" tvg-language="English" group-title="Documentary",Smithsonian Channel
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 # NASATVPublic.us
-#EXTINF:-1 tvg-id="NASATV.us" tvg-chno="227" tvg-name="NASA TV Public" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/NasaTV.jpg" tvg-country="United States" tvg-language="English" group-title="Documentary",NASA TV Public
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8\
+#EXTINF:-1 tvg-id="NASATV.us" tvg-chno="228" tvg-name="NASA TV Public" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/NasaTV.jpg" tvg-country="United States" tvg-language="English" group-title="Documentary",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
 
 
 
-# Asian News 300
+# 
+# 300 International News
+# 
+
+# 300 Asian News
 #EXTINF:-1 tvg-id="" tvg-chno="301" tvg-name="澳門資訊" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TDM-Info.jpg" tvg-country="Macau" tvg-language="Cantonese" group-title="News",澳門資訊
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 tvg-id="GuangZhouXinWen.cn" tvg-chno="302" tvg-name="廣州新聞頻道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/GZBN-News.jpg" tvg-country="China" tvg-language="Mandarin;Cantonese" group-title="News",廣州新聞頻道
 https://aplay.gztv.com/sec/xinwen.m3u8
-#EXTINF:-1 tvg-id="14" tvg-chno="303" tvg-name="CCTV-13 新聞" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-13.jpg" tvg-country="China" tvg-language="Mandarin" group-title="News",CCTV-13 新聞
+#EXTINF:-1 tvg-id="14" tvg-chno="303" tvg-name="CCTV-13" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-13.jpg" tvg-country="China" tvg-language="Mandarin" group-title="News",CCTV-13 新聞
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 # 6108-4513
-#EXTINF:-1 tvg-id="6108" tvg-chno="304" tvg-name="三立iNEWS新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/SET-iNews.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="News",三立iNEWS新聞台
+#EXTINF:-1 tvg-id="6072" tvg-chno="304" tvg-name="三立新闻台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/SET-iNews.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="News",三立iNEWS新聞台
 http://seb.sason.top/sc/slinews_fhd.m3u8
 # 6071-4327
-#EXTINF:-1 tvg-id="6071" tvg-chno="305" tvg-name="民視新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-News.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="News",民視新聞台
+#EXTINF:-1 tvg-id="6071" tvg-chno="305" tvg-name="民视新闻台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV-News.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="News",民視新聞台
 http://210.61.56.23/hls/ftvtv/index.m3u8
 # 6069-4023
-#EXTINF:-1 tvg-id="6069" tvg-chno="306" tvg-name="東森新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/EBC.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="News",東森新聞台
+#EXTINF:-1 tvg-id="6069" tvg-chno="306" tvg-name="东森新闻台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/EBC.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="News",東森新聞台
 http://seb.sason.top/sc/dsxw_fhd.m3u8
-#EXTINF:-1 tvg-id="CGTN.cn" tvg-chno="307" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CGTV.jpg" tvg-country="China" tvg-language="English" group-title="News",CGTN
+#EXTINF:-1 tvg-id="20" tvg-chno="307" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CGTV.jpg" tvg-country="China" tvg-language="English" group-title="News",CGTN
 https://live.cgtn.com/1000/prog_index.m3u8
 # 6139-CNA.sg
-#EXTINF:-1 tvg-id="6139" tvg-chno="308" tvg-name="Channel NewsAsia" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CNA.jpg" tvg-country="Singapore" tvg-language="English" group-title="News",CNA 亞洲新聞台
+#EXTINF:-1 tvg-id="6139" tvg-chno="308" tvg-name="ChannelNewsAsia" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CNA.jpg" tvg-country="Singapore" tvg-language="English" group-title="News",CNA 亞洲新聞台
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="331" tvg-chno="309" tvg-name="NHK WORLD" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/NHK-World.jpg" tvg-country="Japan" tvg-language="English" group-title="News",NHK WORLD-JAPAN
+#EXTINF:-1 tvg-id="331" tvg-chno="309" tvg-name="NHKWorld" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/NHK-World.jpg" tvg-country="Japan" tvg-language="English" group-title="News",NHK WORLD-JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 tvg-id="NTVNews24.jp" tvg-chno="310" tvg-name="日テレNEWS24" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/NTV-NEWS24.jpg" tvg-country="Japan" tvg-language="Japanese" group-title="News",日テレNEWS24
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-
-# European News 310
-#EXTINF:-1 tvg-id="664" tvg-chno="311" tvg-name="BBC World News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/BBC-World-News.jpg" tvg-country="United Kingdom" tvg-language="English" group-title="News",BBC World News
+# 310 European News
+#EXTINF:-1 tvg-id="664" tvg-chno="311" tvg-name="BBCWorldNews" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/BBC-World-News.jpg" tvg-country="United Kingdom" tvg-language="English" group-title="News",BBC World News
 http://ott-cdn.ucom.am/s24/index.m3u8
-#EXTINF:-1 tvg-id="742" tvg-chno="312" tvg-name="Sky News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Sky-News.jpg" tvg-country="United Kingdom" tvg-language="English" group-title="News",Sky News
+#EXTINF:-1 tvg-id="742" tvg-chno="312" tvg-name="SkyNews" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Sky-News.jpg" tvg-country="United Kingdom" tvg-language="English" group-title="News",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #730-DWEnglish.de
-#EXTINF:-1 tvg-id="730" tvg-chno="313" tvg-name="DW News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/DW-English.jpg" tvg-country="Germany" tvg-language="English" group-title="News",DW News 德國之聲
+#EXTINF:-1 tvg-id="730" tvg-chno="313" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/DW-English.jpg" tvg-country="Germany" tvg-language="English" group-title="News",DW News 德國之聲
 https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
 # https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 # 734-France24English.fr
-#EXTINF:-1 tvg-id="France24English.fr" tvg-chno="314" tvg-name="France 24" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/France24.jpg" tvg-country="France" tvg-language="English" group-title="News",France 24
+#EXTINF:-1 tvg-id="France24English.fr" tvg-chno="314" tvg-name="france24" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/France24.jpg" tvg-country="France" tvg-language="English" group-title="News",France 24
 http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
 # http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
-#EXTINF:-1 tvg-id="6183" tvg-chno="315" tvg-name="Euronews" tvg-logo="htt3BOWKQW" url-scrlogo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/EuroNews.jpg" tvg-country="France" tvg-language="English"  group-title="News",Euronews
+#EXTINF:-1 tvg-id="6183" tvg-chno="315" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/EuroNews.jpg" tvg-country="France" tvg-language="English"  group-title="News",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 # https://euronews-euronews-world-1-au.samsung.wurl.com/manifest/playlist.m3u8
 
-#American News 320
+# 320 American News
 #EXTINF:-1 tvg-id="GlobalNewsNational.ca" tvg-chno="321" tvg-name="Global News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Global-News.jpg" tvg-country="Canada" tvg-language="English" group-title="News",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
-#EXTINF:-1 tvg-id="6023" tvg-chno="322" tvg-name="CNN 國際新聞網絡" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CNN-International.jpg" tvg-country="United States" tvg-language="English" group-title="News",CNN 國際新聞網絡
+#EXTINF:-1 tvg-id="6023" tvg-chno="322" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CNN-International.jpg" tvg-country="United States" tvg-language="English" group-title="News",CNN 國際新聞網絡
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="323" tvg-name="ABC News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ABCNews.jpg" tvg-country="United States" tvg-language="English" group-title="News",ABC News
+#EXTINF:-1 tvg-id="" tvg-chno="323" tvg-name="US-ABCNews" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ABCNews.jpg" tvg-country="United States" tvg-language="English" group-title="News",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="KTXA2.us" tvg-chno="324" tvg-name="CBS News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CBSNews.jpg" tvg-country="United States" tvg-language="English" group-title="News",CBS News
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-chno="325" tvg-name="ICI RDI" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ICI-RDI.jpg" tvg-country="Canada" tvg-language="French" group-title="News",ICi RDI
 https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
 
-# Other News 330
-#EXTINF:-1 tvg-id="7183" tvg-chno="331" tvg-name="Al-Jazeera English" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Al-Jazeera-English.jpg" tvg-country="Qatar" tvg-language="English" group-title="News",Al-Jazeera English 半島電視台英語頻道
+# 330 Other News
+#EXTINF:-1 tvg-id="7183" tvg-chno="331" tvg-name="aljazeera" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Al-Jazeera-English.jpg" tvg-country="Qatar" tvg-language="English" group-title="News",Al-Jazeera English 半島電視台英語頻道
 https://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 tvg-id="7100" tvg-chno="332" tvg-name="ABC Australia News" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ABC-Australia-News.jpg" tvg-country="Australia" tvg-language="English" group-title="News",ABC Australia News
+#EXTINF:-1 tvg-id="7100" tvg-chno="332" tvg-name="ABCAustralia" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ABC-Australia-News.jpg" tvg-country="Australia" tvg-language="English" group-title="News",ABC Australia News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-# Reuters.uk
-#EXTINF:-1 tvg-id="" tvg-chno="333" tvg-name="Reuters TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ReutersTV.jpg" tvg-country="United States" tvg-language="English" group-title="News",Reuters TV 路透新聞
+#EXTINF:-1 tvg-id="Reuters.uk" tvg-chno="333" tvg-name="ReutersTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/ReutersTV.jpg" tvg-country="United States" tvg-language="English" group-title="News",Reuters TV 路透新聞
 https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
 # https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
 # NASATVMedia.us
 #EXTINF:-1 tvg-id="NASATV.us" tvg-chno="334" tvg-name="NASA TV Media" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/NasaTV.jpg" tvg-country="United States" tvg-language="English" group-title="News",NASA TV Media
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 
-
-
-
-# Finance 340
+# 340 Finance
 #EXTINF:-1 tvg-id="2" tvg-chno="341" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-2.jpg" tvg-country="China" tvg-language="Mandarin" group-title="Finance",CCTV-2 財經
 http://39.130.202.114:6610/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
-#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-chno="342" tvg-name="Bloomberg Asia" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Bloomberg.jpg" tvg-country="United States" tvg-language="English" group-title="Finance",Bloomberg Asia 彭博亞洲財經台
+#EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-chno="342" tvg-name="BloombergAsia" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Bloomberg.jpg" tvg-country="United States" tvg-language="English" group-title="Finance",Bloomberg Asia 彭博亞洲財經台
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 tvg-id="6140" tvg-chno="343" tvg-name="Bloomberg+" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/BloombergTV%2B.jpg" tvg-country="United States" tvg-language="English" group-title="Finance",Bloomberg+ 彭博財經台+
+#EXTINF:-1 tvg-id="6140" tvg-chno="343" tvg-name="BloombergTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/BloombergTV%2B.jpg" tvg-country="United States" tvg-language="English" group-title="Finance",Bloomberg+ 彭博財經台+
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 # BloombergTVAsiaLiveEvent.us
 #EXTINF:-1 tvg-id="" tvg-chno="344" tvg-name="Bloomberg - Asia Live Event" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Bloomberg.jpg" tvg-country="United States" tvg-language="English" group-title="Finance",Bloomberg - Asia Live Event
@@ -273,6 +286,10 @@ https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
 
 
+
+# 
+# 400 Entertainment
+# 
 
 # Movie 400
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.hk" tvg-chno="401" tvg-name="天映頻道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Celestial-Movies.jpg" tvg-country="Hong Kong" tvg-language="Cantonese;Mandarin" group-title="Movies",天映頻道
@@ -285,24 +302,35 @@ http://iptv.tvfix.org/hls/typd2.m3u8
 http://iptv.tvfix.org/hls/tyjd.m3u8
 #EXTINF:-1 tvg-id="CelestialClassicMovies.hk" tvg-chno="402-2" tvg-name="Celestial Classic" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CelestialClassic.jpg" tvg-country="Hong Kong" tvg-language="Cantonese;Mandarin" group-title="Movies",天映經典頻道 (第2聲道)
 http://iptv.tvfix.org/hls/tyjd2.m3u8
+#EXTINF:-1 tvg-id="145" tvg-chno="403" tvg-name="美亚高清电影台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/MeiAhMovies.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Movies",美亞電影台 (粵語)
+http://iptv.tvfix.org/hls/mydy.m3u8
+#EXTINF:-1 tvg-id="145" tvg-chno="403-2" tvg-name="美亚高清电影台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/MeiAhMovies.jpg" tvg-country="Hong Kong" tvg-language="Mandarin" group-title="Movies",美亞電影台 (普通話)
+http://iptv.tvfix.org/hls/mydy2.m3u8
 # 6083
-#EXTINF:-1 tvg-id="HBOAsia.us" tvg-chno="403" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HBO.jpg" tvg-country="Singapore" tvg-language="English;Mandarin" group-title="Movie",HBO
+#EXTINF:-1 tvg-id="HBOAsia.us" tvg-chno="404" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HBO.jpg" tvg-country="Singapore" tvg-language="English;Mandarin" group-title="Movie",HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 # 6155
-#EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-chno="404" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HBO-Family.jpg" tvg-country="Singapore" tvg-language="English" group-title="Movies",HBO Family
+#EXTINF:-1 tvg-id="HBOFamilyAsia.us" tvg-chno="405" tvg-name="HBO Family" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HBO-Family.jpg" tvg-country="Singapore" tvg-language="English" group-title="Movies",HBO Family
 https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 # 6153
-#EXTINF:-1 tvg-id="HBOHits.us" tvg-chno="405" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HBO-Hits.jpg" tvg-country="Singapore" tvg-language="English" group-title="Movies",HBO Hits
+#EXTINF:-1 tvg-id="HBOHits.us" tvg-chno="406" tvg-name="HBO Hits" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HBO-Hits.jpg" tvg-country="Singapore" tvg-language="English" group-title="Movies",HBO Hits
 https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 
 
-# Animation 410
-# LegoChannel.us
-#EXTINF:-1 tvg-id="" tvg-chno="411" tvg-name="Lego Channel" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/LegoChannel.jpg" tvg-country="United States" tvg-language="English" group-title="Animation",Lego Channel
-https://legochannel-roku.amagi.tv/playlist.m3u8
+# 410 Kids 
 # AnimaxJapan.jp-7238
-#EXTINF:-1 tvg-id="AnimaxAsia.jp" tvg-chno="412" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Animax.jpg" tvg-country="Singapore" tvg-language="English;Japanese" group-title="Animation",Animax
-https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#EXTINF:-1 tvg-id="7238" tvg-chno="411" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Animax.jpg" tvg-country="Singapore" tvg-language="English;Japanese" group-title="Animation",Animax
+http://iptv.tvfix.org/hls/animax.m3u8
+# https://feed.play.mv/live/10005200/isU48qPZqV/master.m3u8
+#EXTINF:-1 tvg-id="AnimaxAsia.jp" tvg-chno="411-2" tvg-name="Animax" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Animax.jpg" tvg-country="Singapore" tvg-language="English;Japanese" group-title="Animation",Animax (第2聲道)
+http://iptv.tvfix.org/hls/animax2.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="412" tvg-name="HandsUpChannel" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-HandsUpChannel.jpg" tvg-country="Hong Kong" tvg-language="Cantonese;Japanese" group-title="Animation",Hands Up Channel
+http://iptv.tvfix.org/hls/kid.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="412-2" tvg-name="HandsUpChannel" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-HandsUpChannel.jpg" tvg-country="Hong Kong" tvg-language="Cantonese;Japanese" group-title="Animation",Hands Up Channel (第2聲道)
+http://iptv.tvfix.org/hls/kid2.m3u8
+# LegoChannel.us
+#EXTINF:-1 tvg-id="" tvg-chno="413" tvg-name="Lego Channel" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/LegoChannel.jpg" tvg-country="United States" tvg-language="English" group-title="Animation",Lego Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
 
 
 
