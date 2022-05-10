@@ -50,7 +50,8 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 
 # TVB
 #EXTINF:-1 tvg-id="81" tvg-chno="081" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Jade.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",翡翠台
-https://cdn.hkyoutv.com/hls/81/index.m3u8
+# https://cdn.hkyoutv.com/hls/81/index.m3u8
+https://cdn.hklive.tv/hls/81/index.m3u8 
 # http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="126" tvg-chno="081-2" tvg-name="翡翠台 (第2聲道簡體)" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Jade.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",翡翠台 (第2聲道簡體)
 http://iptv.tvfix.org/hls/jade2.m3u8
