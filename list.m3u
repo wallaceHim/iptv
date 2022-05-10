@@ -79,7 +79,9 @@ http://iptv.tvfix.org/hls/tvbkf.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="088-2" tvg-name="TVB功夫台 (普通話)" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-AsianAction.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Drama",TVB功夫台 (普通話)
 http://iptv.tvfix.org/hls/tvbkf.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="089" tvg-name="TVB戲曲台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-AsianAction.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Drama",TVB戲曲台
-https://live.tvfix.org/hls/tvbxq.m3u8
+http://live.tvfix.org/hls/tvbxq.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="090" tvg-name="TVB 18台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-AsianAction.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Drama",TVB18台
+http://live.tvfix.org/hls/18.m3u8
 
 # HKTVE
 #EXTINF:-1 tvg-id="96" tvg-chno="096" tvg-name="ViuTV Six" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/viuTV6.jpg" tvg-country="Hong Kong" tvg-language="English;Cantonese" group-title="Generalist",ViuTV Six
