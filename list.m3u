@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000"
+#EXTM3U x-tvg-url="https://epg.hklive.tv"
+
 
 # AUSTRALIA: https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml
 # CANADA: https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml
@@ -19,8 +20,9 @@
 # 
 
 # NowTV
-#EXTINF:-1 tvg-id="" tvg-chno="051" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",now新聞台
-http://livetv.dnsfor.me/channel.4.m3u8
+#EXTINF:-1 tvg-id="332" tvg-chno="051" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",now新聞台
+# http://livetv.dnsfor.me/channel.4.m3u8
+https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="052" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-Direct.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",now直播台
 http://livetv.dnsfor.me/channel.3.m3u8
 
@@ -39,6 +41,8 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 #EXTINF:-1 tvg-id="33" tvg-chno="033" tvg-name="港台電視33" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/RTHK33.jpg" tvg-country="Hong Kong" tvg-language="Mandarin" group-title="Generalist",港台電視33
 https://cdn.hklive.tv/hls/33/index.m3u8
+#EXTINF:-1 tvg-id="34" tvg-name="CGTN紀錄頻道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CGTV-Documentary.jpg" group-title="[RTHK] 香港電台",CGTN紀錄頻道
+https://cdn.hklive.tv/xxxx/34/index.m3u8
 
 # FanTV
 #EXTINF:-1 tvg-id="76" tvg-chno="076" tvg-name="香港國際財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HKIBC.jpg" tvg-country="Hong Kong" tvg-language="English;Mandarin" group-title="Generalist",香港國際財經台
@@ -49,18 +53,17 @@ https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 # TVB
-# #EXTINF:-1 tvg-id="81" tvg-chno="081" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Jade.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",翡翠台
-# http://23.237.10.66:16106
-# #EXTINF:-1 tvg-id="82" tvg-chno="082" tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-J2.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",J2
-# https://cdn.hklive.tv/xxxx/82/index.m3u8
-# #EXTINF:-1 tvg-id="83" tvg-chno="083" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",無綫新聞台
-# http://9.zhxinda.xyz/newss.php?id=1
-# #EXTINF:-1 tvg-id="84" tvg-chno="084" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Pearl.jpg" tvg-country="Hong Kong" tvg-language="English;Mandarin" group-title="Generalist",明珠台
-# https://cdn.hklive.tv/hls/84/index.m3u8
-# #EXTINF:-1 tvg-id="127" tvg-chno="084-2" tvg-name="明珠台 (第2聲道)" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Pearl.jpg" tvg-country="Hong Kong" tvg-language="English;Mandarin" group-title="Generalist",明珠台 (第2聲道)
-# https://cdn.hklive.tv/hls/84b/index.m3u8
-# #EXTINF:-1 tvg-id="85" tvg-chno="085" tvg-name="無綫財經·資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Finance-and-Infomation.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Finance",無綫財經·資訊台
-# https://tvp22.sky4k.top/index2.php
+#EXTINF:-1 tvg-id="81" tvg-chno="081" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Jade.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",翡翠台
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 tvg-id="82" tvg-chno="082" tvg-name="J2" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-J2.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",J2
+https://cdn.hklive.tv/xxxx/82/index.m3u8
+#EXTINF:-1 tvg-id="83" tvg-chno="083" tvg-name="無綫新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",無綫新聞台
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 tvg-id="84" tvg-chno="084" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Pearl.jpg" tvg-country="Hong Kong" tvg-language="English;Mandarin" group-title="Generalist",明珠台
+https://cdn.hklive.tv/xxxx/84/index.m3u8
+#EXTINF:-1 tvg-id="85" tvg-chno="085" tvg-name="無綫財經·資訊台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Finance-and-Infomation.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Finance",無綫財經·資訊台
+https://tvp22.sky4k.top/index2.php
+# https://cdn.hklive.tv/xxxx/85/index.m3u8
 # #EXTINF:-1 tvg-id="129" tvg-chno="086" tvg-name="TVB经典台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-Classic.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Drama",TVB經典台
 # http://iptv.tvfix.org/hls/tvbjd.m3u8
 # #EXTINF:-1 tvg-id="131" tvg-chno="087" tvg-name="TVB星河频道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/TVB-XingHe.jpg" tvg-country="Hong Kong" tvg-language="Mandarin;Cantonese" group-title="Drama",TVB星河頻道
@@ -75,10 +78,10 @@ https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 # http://live.tvfix.org/hls/18.m3u8
 
 # HKTVE
-# #EXTINF:-1 tvg-id="96" tvg-chno="096" tvg-name="ViuTV Six" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/viuTV6.jpg" tvg-country="Hong Kong" tvg-language="English;Cantonese" group-title="Generalist",ViuTV Six
-# https://cdn.hklive.tv/hls/96/index.m3u8
-# #EXTINF:-1 tvg-id="99" tvg-chno="099" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/viuTV.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",ViuTV
-# https://cdn.hklive.tv/hls/99/index.m3u8
+#EXTINF:-1 tvg-id="96" tvg-chno="096" tvg-name="ViuTV Six" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/viuTV6.jpg" tvg-country="Hong Kong" tvg-language="English;Cantonese" group-title="Generalist",ViuTV Six
+https://cdn.hklive.tv/xxxx/96/index.m3u8
+#EXTINF:-1 tvg-id="99" tvg-chno="099" tvg-name="ViuTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/viuTV.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",ViuTV
+https://cdn.hklive.tv/xxxx/99/index.m3u8
 
 
 # 
