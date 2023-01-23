@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://epg.hklive.tv"
-# EXTM3U x-tvg-url="http://epg.51zmt.top:8000"
+
 
 # AUSTRALIA: https://iptv-org.github.io/epg/guides/au/ontvtonight.com.epg.xml
 # CANADA: https://iptv-org.github.io/epg/guides/ca/tvtv.us.epg.xml
@@ -21,7 +21,8 @@
 
 # NowTV
 #EXTINF:-1 tvg-id="332" tvg-chno="051" tvg-name="now新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",now新聞台
-http://livetv.dnsfor.me/channel.4.m3u8
+# http://livetv.dnsfor.me/channel.4.m3u8
+https://cdn.hklive.tv/xxxx/332/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-chno="052" tvg-name="now直播台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/now-Direct.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",now直播台
 http://livetv.dnsfor.me/channel.3.m3u8
 
@@ -40,7 +41,7 @@ https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
 #EXTINF:-1 tvg-id="33" tvg-chno="033" tvg-name="港台電視33" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/RTHK33.jpg" tvg-country="Hong Kong" tvg-language="Mandarin" group-title="Generalist",港台電視33
 https://cdn.hklive.tv/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="34" tvg-name="CGTN紀錄頻道" tvg-logo="https://www.hklive.tv/png_logo/34.png" group-title="[RTHK] 香港電台",CGTN紀錄頻道
+#EXTINF:-1 tvg-id="34" tvg-name="CGTN紀錄頻道" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CGTV-Documentary.jpg" group-title="[RTHK] 香港電台",CGTN紀錄頻道
 https://cdn.hklive.tv/xxxx/34/index.m3u8
 
 # FanTV
