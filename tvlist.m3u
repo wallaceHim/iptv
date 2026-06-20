@@ -26,12 +26,12 @@ https://cdn.hklive.tv/xxxx/332/index.m3u8
 http://livetv.dnsfor.me/channel.3.m3u8
 
 # i-Cable
-#EXTINF:-1 tvg-id="7122" tvg-chno="061" tvg-name="有线新闻台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/iCable-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",有線新聞台
-https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 tvg-id="7119" tvg-chno="062" tvg-name="有线财经资讯台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/iCable-Finance.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Finance",有線財經資訊台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 tvg-id="" tvg-chno="063" tvg-name="有線直播新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/iCable-LiveNews.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",有線直播新聞台
-https://api.leonardpark.dev/live/icable/110
+# #EXTINF:-1 tvg-id="7122" tvg-chno="061" tvg-name="有线新闻台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/iCable-News.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",有線新聞台
+# https://api.leonardpark.dev/live/icable/109
+# #EXTINF:-1 tvg-id="7119" tvg-chno="062" tvg-name="有线财经资讯台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/iCable-Finance.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Finance",有線財經資訊台
+# https://api.leonardpark.dev/live/icable/108
+# #EXTINF:-1 tvg-id="" tvg-chno="063" tvg-name="有線直播新聞台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/iCable-LiveNews.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="News",有線直播新聞台
+# https://api.leonardpark.dev/live/icable/110
 
 # RTHK
 #EXTINF:-1 tvg-id="31" tvg-chno="031" tvg-name="港台電視31" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/RTHK31.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",港台電視31
@@ -44,11 +44,11 @@ https://cdn.hklive.tv/hls/33/index.m3u8
 https://cdn.hklive.tv/xxxx/34/index.m3u8
 
 # FanTV
-#EXTINF:-1 tvg-id="76" tvg-chno="076" tvg-name="香港國際財經台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HKIBC.jpg" tvg-country="Hong Kong" tvg-language="English;Mandarin" group-title="Generalist",香港國際財經台
+#EXTINF:-1 tvg-id="76" tvg-chno="076" tvg-name="HOY 76" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HOY76.jpg" tvg-country="Hong Kong" tvg-language="English;Mandarin" group-title="Generalist",HOY 76
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-id="77" tvg-chno="077" tvg-name="HOY TV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HKOTV.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",HOY TV
+#EXTINF:-1 tvg-id="77" tvg-chno="077" tvg-name="HOY 77" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HOY77.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",HOY 77
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="78" tvg-chno="078" tvg-name="HOY 資訊台" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/HOY_info_ident_2022.png" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",HOY 資訊台
+#EXTINF:-1 tvg-id="78" tvg-chno="078" tvg-name="HOY 78" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HOY78.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",HOY 78
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 # TVB
@@ -101,9 +101,9 @@ http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
 
 # 110 Mandarin
 #EXTINF:-1 tvg-id="1" tvg-chno="111" tvg-name="CCTV-1 綜合" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-1.jpg" tvg-country="China" tvg-language="Mandarin" group-title="Generalist",CCTV-1 綜合
-http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8
+http://69.30.245.50/live/cctv1.m3u8
 #EXTINF:-1 tvg-id="4" tvg-chno="112" tvg-name="CCTV-4 中文國際" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-4.jpg" tvg-country="China" tvg-language="Mandarin" group-title="Generalist",CCTV-4 中文國際
-http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
+http://74.91.26.218:82/live/cctv4hd.m3u8
 #EXTINF:-1 tvg-id="6024" tvg-chno="113" tvg-name="民視無線台" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/FTV.jpg" tvg-country="Taiwan" tvg-language="Mandarin" group-title="Generalist",民視無線台
 http://seb.sason.top/ptv/ftv.php?id=ms
 # 7133-MS1.TW
@@ -222,17 +222,16 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 # 310 European News
-#EXTINF:-1 tvg-id="664" tvg-chno="311" tvg-name="BBCWorldNews" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/BBC-World-News.jpg" tvg-country="United Kingdom" tvg-language="English" group-title="News",BBC World News
-http://ott-cdn.ucom.am/s24/index.m3u8
+#EXTINF:-1 tvg-id="664" tvg-chno="311" tvg-name="BBCWorldNews" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/BBC-World-News.jpg" tvg-country="United Kingdom" tvg-language="English" group-title="News",BBC News
+https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 #EXTINF:-1 tvg-id="742" tvg-chno="312" tvg-name="SkyNews" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Sky-News.jpg" tvg-country="United Kingdom" tvg-language="English" group-title="News",Sky News
 https://skynews2-plutolive-vo.akamaized.net/cdhlsskynewsamericas/1013/latest.m3u8?serverSideAds=true
 #730-DWEnglish.de
 #EXTINF:-1 tvg-id="730" tvg-chno="313" tvg-name="DW" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/DW-English.jpg" tvg-country="Germany" tvg-language="English" group-title="News",DW News 德國之聲
-https://m-c010-j2apps.s.llnwi.net/hls_hd/8024.DWEnglishHD.in.m3u8
-# https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 # 734-France24English.fr
 #EXTINF:-1 tvg-id="France24English.fr" tvg-chno="314" tvg-name="france24" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/France24.jpg" tvg-country="France" tvg-language="English" group-title="News",France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
 # http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 #EXTINF:-1 tvg-id="6183" tvg-chno="315" tvg-name="Euronews" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/EuroNews.jpg" tvg-country="France" tvg-language="English"  group-title="News",Euronews
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
