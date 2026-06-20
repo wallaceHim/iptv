@@ -44,11 +44,11 @@ https://cdn.hklive.tv/hls/33/index.m3u8
 https://cdn.hklive.tv/xxxx/34/index.m3u8
 
 # FanTV
-#EXTINF:-1 tvg-id="76" tvg-chno="076" tvg-name="HOY 76" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HOY76.jpeg" tvg-country="Hong Kong" tvg-language="English;Mandarin" group-title="Generalist",HOY 76
+#EXTINF:-1 tvg-id="76" tvg-chno="076" tvg-name="HOY 76" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HOY76.jpg" tvg-country="Hong Kong" tvg-language="English;Mandarin" group-title="Generalist",HOY 76
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
-#EXTINF:-1 tvg-id="77" tvg-chno="077" tvg-name="HOY 77" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HOY77.jpeg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",HOY 77
+#EXTINF:-1 tvg-id="77" tvg-chno="077" tvg-name="HOY 77" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HOY77.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",HOY 77
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
-#EXTINF:-1 tvg-id="78" tvg-chno="078" tvg-name="HOY 78" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HOY78.jpeg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",HOY 78
+#EXTINF:-1 tvg-id="78" tvg-chno="078" tvg-name="HOY 78" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/HOY78.jpg" tvg-country="Hong Kong" tvg-language="Cantonese" group-title="Generalist",HOY 78
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
 
 # TVB
