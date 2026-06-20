@@ -265,12 +265,12 @@ https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 tvg-id="2" tvg-chno="341" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/CCTV-2.jpg" tvg-country="China" tvg-language="Mandarin" group-title="Finance",CCTV-2 財經
 http://39.130.202.114:6610/gitv_live/G_CCTV-2-HD/G_CCTV-2-HD.m3u8
 #EXTINF:-1 tvg-id="BloombergTVAsia.us" tvg-chno="342" tvg-name="BloombergAsia" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Bloomberg.jpg" tvg-country="United States" tvg-language="English" group-title="Finance",Bloomberg Asia 彭博亞洲財經台
-https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-id="6140" tvg-chno="343" tvg-name="BloombergTV" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/BloombergTV%2B.jpg" tvg-country="United States" tvg-language="English" group-title="Finance",Bloomberg+ 彭博財經台+
 https://bloomberg-bloombergtv-1.samsung.wurl.com/manifest/playlist.m3u8
 # BloombergTVAsiaLiveEvent.us
 #EXTINF:-1 tvg-id="" tvg-chno="344" tvg-name="Bloomberg - Asia Live Event" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Bloomberg.jpg" tvg-country="United States" tvg-language="English" group-title="Finance",Bloomberg - Asia Live Event
-https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
+https://bloomberg.com/media-manifest/streams/asia-event.m3u8
 # BloombergQuicktake.us
 #EXTINF:-1 tvg-id="" tvg-chno="345" tvg-name="Bloomberg Quicktake" tvg-logo="https://raw.githubusercontent.com/wallaceHim/iptv/main/channel-banner/Bloomberg-Quicktake.jpg" tvg-country="United States" tvg-language="English" group-title="Finance",Bloomberg Quicktake
 https://www.bloomberg.com/media-manifest/streams/qt.m3u8
